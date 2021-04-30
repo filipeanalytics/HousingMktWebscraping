@@ -1,0 +1,1118 @@
+,price,address,neighborhood,city,region,bedrooms,bathrooms,area,propType
+0,"1,738",420 Valley Road,Glenmore Clifton Dilworth,Kelowna,Central Okanagan,2,2,936,Apt/Condo
+1,"1,850",3477 Lakeshore Road,South Pandosy Klo,Kelowna,Central Okanagan,1,1,564,Apt/Condo
+2,"1,498",3500 Sonoma Pines Drive,"3500 Sonoma Pines Drive
+",Westbank,Central Okanagan,1,1,635,Apt/Condo
+3,"1,648",3500 Sonoma Pines Drive,"3500 Sonoma Pines Drive
+",Westbank,Central Okanagan,2,1,797,Apt/Condo
+4,"1,778",3500 Sonoma Pines Drive,"3500 Sonoma Pines Drive
+",Westbank,Central Okanagan,2,2,883,Apt/Condo
+5,"2,398",3495 Sonoma Pines Drive,"3495 Sonoma Pines Drive
+",Westbank,Central Okanagan,3,2,1267,Apt/Condo
+6,"1,938",3500 Sonoma Pines Drive,"3500 Sonoma Pines Drive
+",Westbank,Central Okanagan,3,2,1031,Apt/Condo
+7,"1,300",33677 King Road,Poplar,Abbotsford,Fraser Valley and Chilliwack,0,1,413,Apt/Condo
+8,"1,475",33677 King Road,Poplar,Abbotsford,Fraser Valley and Chilliwack,1,1,533,Apt/Condo
+9,"1,925",33677 King Road,Poplar,Abbotsford,Fraser Valley and Chilliwack,2,2,826,Apt/Condo
+10,"1,150",2578 James Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,0,1,465,Apt/Condo
+11,"1,370",32888 Maclure Road,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,580,Apt/Condo
+12,"1,910",2578 James Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,2,2,1105,Apt/Condo
+13,"1,350",2461 Countess Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,1,1,538,Apt/Condo
+14,"1,250",33361 Old Yale Road,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,846,Apt/Condo
+15,"1,500",33361 Old Yale Road,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,846,Apt/Condo
+16,975,3065 Clearbrook Road,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,0,1,334,Apt/Condo
+17,"1,100",2959 Tims Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,1,1,543,Apt/Condo
+18,"1,200",3065 Clearbrook Road,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,1,1,662,Apt/Condo
+19,"1,475",3065 Clearbrook Road,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,2,1,903,Apt/Condo
+20,"1,325",2959 Tims Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,2,1,544,Apt/Condo
+21,"1,500",32120 Peardonville Rd.,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,2,1,861,Apt/Condo
+22,"1,000",32120 Peardonville Rd.,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,0,1,590,Apt/Condo
+23,"1,250",32120 Peardonville Rd.,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,1,1,590,Apt/Condo
+24,975,33263 Bourquin Cres. E.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,0,1,430,Apt/Condo
+25,950,33292 Robertson Ave. E.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,0,1,430,Apt/Condo
+26,"1,375",33292 Robertson Ave. E.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,920,Apt/Condo
+27,"1,425",33263 Bourquin Cres. E.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,950,Apt/Condo
+28,"1,150",33292 Robertson Ave. E.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,750,Apt/Condo
+29,"1,200",33184 George Ferguson Way,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,675,Apt/Condo
+30,"1,450",33184 George Ferguson Way,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,903,Apt/Condo
+31,"1,200",33263 Bourquin Cres. E.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,740,Apt/Condo
+32,950,33298 Robertson Ave.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,0,1,450,Apt/Condo
+33,"1,100",33298 Robertson Ave.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,685,Apt/Condo
+34,"1,800",32030 George Ferguson Way,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,3,1,1188,Apt/Condo
+35,"1,200",2485 Hill-Tout Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,1,1,746,Apt/Condo
+36,"1,450",2485 Hill-Tout Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,2,1,900,Apt/Condo
+37,"1,200",33136 George Ferguson Way,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,700,Apt/Condo
+38,"1,450",33136 George Ferguson Way,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,930,Apt/Condo
+39,"1,200",2525 Hill-Tout Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,1,1,641,Apt/Condo
+40,"1,450",2525 Hill-Tout Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,2,1,857,Apt/Condo
+41,"1,300",33298 Robertson Ave.,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,900,Apt/Condo
+42,975,32030 George Ferguson Way,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,0,1,486,Apt/Condo
+43,975,2485 Hill-Tout Street,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,0,1,666,Apt/Condo
+44,"1,225",33405 Bourquin Place,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,714,Apt/Condo
+45,"1,475",33405 Bourquin Place,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,902,Apt/Condo
+46,"1,200",33710 Marshall Road,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,680,Apt/Condo
+47,"1,450",33710 Marshall Road,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,880,Apt/Condo
+48,"1,200",32030 George Ferguson Way,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,1,1,608,Apt/Condo
+49,"1,475",32030 George Ferguson Way,Abbotsford West,Abbotsford,Fraser Valley and Chilliwack,2,1,864,Apt/Condo
+50,950,2814 Pratt Crescent,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,0,1,475,Apt/Condo
+51,"1,175",2814 Pratt Crescent,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,645,Apt/Condo
+52,"1,400",2814 Pratt Crescent,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,900,Apt/Condo
+53,"1,700",33914 George Ferguson Way,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,1,850,House
+54,"1,200",33914 George Ferguson Way,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,1,1,600,House
+55,"2,200",1833 Salton Road,Central Abbotsford,Abbotsford,Fraser Valley and Chilliwack,2,2,,Apt/Condo
+56,"1,325",45810 First Ave.,Chilliwack W Young Well,Chilliwack,Fraser Valley and Chilliwack,2,2,870,Apt/Condo
+57,"1,025",46095 Bole Avenue,Chilliwack N Yale Well,Chilliwack,Fraser Valley and Chilliwack,1,1,0,Apt/Condo
+58,"2,950",6383 Mckay Avenue Mckay Avenue,Metrotown,Burnaby,Greater Vancouver,2,2,740,Apt/Condo
+59,"2,480",8940 University Crescent,Simon Fraser University,Burnaby,Greater Vancouver,2,2,1070,Apt/Condo
+60,"1,700",4650 Brentwood Blvd,Brentwood Park,Burnaby,Greater Vancouver,1,1,546,Apt/Condo
+61,"1,700",4650 Brentwood Blvd,Brentwood Park,Burnaby,Greater Vancouver,1,1,546,Apt/Condo
+62,"2,325",2388 Madison Avenue,Brentwood Park,Burnaby,Greater Vancouver,2,2,752,Apt/Condo
+63,"2,100",9620 Manchester Drive,Cariboo,Burnaby,Greater Vancouver,2,1,902,Apt/Condo
+64,"1,900",4650 Brentwood Drive,Brentwood Park,Burnaby,Greater Vancouver,1,1,540,Apt/Condo
+65,"2,250",6861 Winch Street,Sperling Duthie,Burnaby,Greater Vancouver,3,2,1450,Duplex
+66,"2,350",5885 Olive Avenue,Metrotown,Burnaby,Greater Vancouver,2,2,1181,Apt/Condo
+67,"2,800",8940 University Crescent,Simon Fraser University,Burnaby,Greater Vancouver,2,2,924,Apt/Condo
+68,"3,500",8940 University Crescent,Simon Fraser University,Burnaby,Greater Vancouver,2,2,975,Apt/Condo
+69,"1,300",4437 Rumble Street,Metrotown,Burnaby,Greater Vancouver,1,1,700,House
+70,"2,300",9329 University Crescent,Simon Fraser University,Burnaby,Greater Vancouver,2,2,840,Apt/Condo
+71,"2,995",4510 Halifax Way,Brentwood Park,Burnaby,Greater Vancouver,2,2,1000,Apt/Condo
+72,"2,600",6461 Telford Avenue,Metrotown,Burnaby,Greater Vancouver,2,2,906,Apt/Condo
+73,"1,950",5775 Irmin Street,Metrotown,Burnaby,Greater Vancouver,2,2,808,Apt/Condo
+74,"2,000",4330 Pender Street,Vancouver Heights,Burnaby,Greater Vancouver,2,1,750,House
+75,"1,400",3055 North Road,Sullivan Heights,Burnaby,Greater Vancouver,1,1,655,Apt/Condo
+76,"1,600",9005 Centaurus Circle,Simon Fraser Hills,Burnaby,Greater Vancouver,1,1,0,Apt/Condo
+77,"1,750",9005 Centaurus Circle,Simon Fraser Hills,Burnaby,Greater Vancouver,2,1,0,Apt/Condo
+78,"2,550",4105 1888 Gilmore Avenue,Brentwood Park,Burnaby,Greater Vancouver,2,2,789,House
+79,"1,675",4266 Grange Street,Central Park,Burnaby,Greater Vancouver,1,1,674,Apt/Condo
+80,"1,875",4266 Grange Street,Central Park,Burnaby,Greater Vancouver,1,1,600,Apt/Condo
+81,"1,480",4421 Albert Street North,Vancouver Heights,Burnaby,Greater Vancouver,1,1,0,Apt/Condo
+82,"2,145",4266 Grange Street,Central Park,Burnaby,Greater Vancouver,2,2,1000,Apt/Condo
+83,"1,365",4266 Grange Street,Central Park,Burnaby,Greater Vancouver,0,1,500,Apt/Condo
+84,"1,940",4769 Hazel Street,Forest Glen,Burnaby,Greater Vancouver,2,2,960,Apt/Condo
+85,"1,645",4769 Hazel Street,Forest Glen,Burnaby,Greater Vancouver,1,1,634,Apt/Condo
+86,"1,496",4769 Hazel Street,Forest Glen,Burnaby,Greater Vancouver,0,1,490,Apt/Condo
+87,"1,387",4390 Grange Street,Central Park,Burnaby,Greater Vancouver,0,1,533,Apt/Condo
+88,"1,595",5051 Lougheed Highway,Brentwood Park,Burnaby,Greater Vancouver,2,1,800,Apt/Condo
+89,"2,390",4769 Hazel Street,Forest Glen,Burnaby,Greater Vancouver,2,1,835,Apt/Condo
+90,"1,475",4769 Hazel Street,Forest Glen,Burnaby,Greater Vancouver,1,1,634,Apt/Condo
+91,"1,583",4390 Grange Street,Central Park,Burnaby,Greater Vancouver,1,1,677,Apt/Condo
+92,"2,250",3105 4808 Hazel Street,Forest Glen,Burnaby,Greater Vancouver,2,2,833,House
+93,"1,650",6368 McKay Avenue,Metrotown,Burnaby,Greater Vancouver,1,1,570,House
+94,"1,900",1125 Beta Avenue,Brentwood Park,Burnaby,Greater Vancouver,2,1,660,Apt/Condo
+95,"2,500",4650 Brentwood Boulevard,Brentwood Park,Burnaby,Greater Vancouver,2,2,777,Apt/Condo
+96,"1,775",6098 Station Street,Metrotown,Burnaby,Greater Vancouver,1,1,585,Apt/Condo
+97,"2,000",4508 Hazel Street,Forest Glen,Burnaby,Greater Vancouver,1,1,,Apt/Condo
+98,"1,800",1807 6588 Nelson Avenue,Metrotown,Burnaby,Greater Vancouver,1,1,620,House
+99,"2,500",4650 Brentwood Drive,Brentwood Park,Burnaby,Greater Vancouver,2,2,800,Apt/Condo
+100,"1,600",3980 Carrigan Court,Government Road,Burnaby,Greater Vancouver,1,1,779,Apt/Condo
+101,"2,100",7171 Beresford Street,Highgate,Burnaby,Greater Vancouver,2,2,890,Apt/Condo
+102,"2,200",20fl 2200 Douglas Road,Brentwood Park,Burnaby,Greater Vancouver,2,2,900,House
+103,"1,825",4650 Brentwood Drive,Brentwood Park,Burnaby,Greater Vancouver,1,1,540,Apt/Condo
+104,"2,400",9888 Cameron Street,Sullivan Heights,Burnaby,Greater Vancouver,2,2,955,Apt/Condo
+105,"2,250",4650 Brentwood Drive,Brentwood Park,Burnaby,Greater Vancouver,2,2,720,Apt/Condo
+106,"2,100",4567 Lougheed Highway,Brentwood Park,Burnaby,Greater Vancouver,1,1,540,Apt/Condo
+107,"1,695",4463 Victory Street,Metrotown,Burnaby,Greater Vancouver,2,1,,House
+108,"2,100",7488 Byrnepark Walk,South Slope,Burnaby,Greater Vancouver,2,2,742,Apt/Condo
+109,"1,650",4650 Brentwood Drive,Brentwood Park,Burnaby,Greater Vancouver,1,1,542,Apt/Condo
+110,"1,800",802 8850 University Crescent,Simon Fraser University,Burnaby,Greater Vancouver,1,1,580,House
+111,"1,600",2nd Fl 6688 Burlington,Metrotown,Burnaby,Greater Vancouver,2,2,960,House
+112,"1,800",9541 Erickson Drive,Sullivan Heights,Burnaby,Greater Vancouver,1,1,750,Apt/Condo
+113,"1,800",19fl 4650 Brentwood Boulevard,Brentwood Park,Burnaby,Greater Vancouver,1,1,550,House
+114,"2,800",#1 6080 Marine Dr,Big Bend,Burnaby,Greater Vancouver,3,2,1600,House
+115,"3,295",2351 Beta Avenue,Brentwood Park,Burnaby,Greater Vancouver,3,3,1513,Apt/Condo
+116,"2,600",2105 6461 Telford Avenue,Metrotown,Burnaby,Greater Vancouver,2,2,866,House
+117,"2,300",29 355 Duthie Avenue,Westridge,Burnaby,Greater Vancouver,2,3,1100,House
+118,"3,150",Th5 2088 Madison Avenue,Brentwood Park,Burnaby,Greater Vancouver,2,2,1600,House
+119,"5,500",5755 Monarch Street,Deer Lake Place,Burnaby,Greater Vancouver,6,5,3615,House
+120,"1,690",2351 Beta Avenue,Brentwood Park,Burnaby,Greater Vancouver,1,1,555,Apt/Condo
+121,"2,200",706 9222 University Crescent,Simon Fraser University,Burnaby,Greater Vancouver,2,2,1000,House
+122,"1,450",4822 Bond Street,Forest Glen,Burnaby,Greater Vancouver,2,1,950,House
+123,"2,650",#1 6080 Marine Drive,Big Bend,Burnaby,Greater Vancouver,3,2,1600,House
+124,990,202-9877 University Crescent,Simon Fraser University,Burnaby,Greater Vancouver,2,1,730,Apt/Condo
+125,"1,595",1200 Howie Avenue,Central Coquitlam,Coquitlam,Greater Vancouver,1,1,750,Apt/Condo
+126,"2,350",3100 Windsor Gate,New Horizons,Coquitlam,Greater Vancouver,2,2,933,Apt/Condo
+127,"2,250",951 Charland Avenue,Central Coquitlam,Coquitlam,Greater Vancouver,2,2,800,Apt/Condo
+128,"2,195",1155 The High St,North Coquitlam,Coquitlam,Greater Vancouver,2,2,846,Apt/Condo
+129,"1,700",1200 Howie Avenue,Central Coquitlam,Coquitlam,Greater Vancouver,2,1,950,Apt/Condo
+130,"2,150",951 Charland Avenue,Central Coquitlam,Coquitlam,Greater Vancouver,2,1,790,Apt/Condo
+131,"1,700",606 570 Emerson Street,Coquitlam West,Coquitlam,Greater Vancouver,1,1,600,House
+132,"1,500",307 460 Westview Street,Coquitlam West,Coquitlam,Greater Vancouver,1,1,750,House
+133,"1,745",652 Whiting Way,Coquitlam West,Coquitlam,Greater Vancouver,1,1,574,Apt/Condo
+134,"2,800",5055 Springs Boulevard,Tsawwassen North,Delta,Greater Vancouver,2,3,1555,Apt/Condo
+135,"1,800",9015 120 Street,Annieville,Delta,Greater Vancouver,2,2,950,Apt/Condo
+136,"2,250",9015 120 Street,Annieville,Delta,Greater Vancouver,2,3,1450,Apt/Condo
+137,"2,400",5055 Springs Boulevard,Tsawwassen North,Delta,Greater Vancouver,2,2,904,House
+138,"1,890",5011 Springs Boulevard,Tsawwassen North,Delta,Greater Vancouver,1,1,629,Apt/Condo
+139,"2,800",5676 Caddell Drive,Sunshine Hills Woods,Delta,Greater Vancouver,3,2,1880,House
+140,"1,650",20686 Eastleigh Crescent,Langley City,Langley,Greater Vancouver,2,2,760,Apt/Condo
+141,"2,306",20053 68th Avenue,Willoughby Heights,Langley,Greater Vancouver,2,2,1048,Apt/Condo
+142,"1,795",20175 53 Ave,Langley City,Langley,Greater Vancouver,2,1,750,Apt/Condo
+143,"2,350",20053 68th Avenue,Willoughby Heights,Langley,Greater Vancouver,2,2,1189,Apt/Condo
+144,"1,685",20053 68th Avenue,Willoughby Heights,Langley,Greater Vancouver,1,1,702,Apt/Condo
+145,"1,690",20115 53a Avenue,Langley City,Langley,Greater Vancouver,2,1,695,Apt/Condo
+146,"1,850",20188 53a Avenue,Langley City,Langley,Greater Vancouver,2,2,912,Apt/Condo
+147,"1,500",20188 53a Avenue,Langley City,Langley,Greater Vancouver,1,1,641,Apt/Condo
+148,"1,700",20010 48th,Langley City,Langley,Greater Vancouver,3,1,1275,House
+149,"1,400",8236 204 Street,Willoughby Heights,Langley,Greater Vancouver,2,1,720,House
+150,"2,000",216 27358 32 Avenue,Aldergrove,Langley,Greater Vancouver,2,2,1101,House
+151,"1,300",5650 201a Street,Langley City,Langley,Greater Vancouver,1,1,475,Apt/Condo
+152,"1,695",22182 Dewdney Trunk Road,West Central Maple Ridge,Maple Ridge,Greater Vancouver,2,1,0,Apt/Condo
+153,"1,395",22182 Dewdney Trunk Road,West Central Maple Ridge,Maple Ridge,Greater Vancouver,1,1,0,Apt/Condo
+154,"1,500",225 Street,East Central Maple Ridge,Maple Ridge,Greater Vancouver,2,2,1300,Townhouse
+155,"1,450",11798 237a Street,Cottonwood,Maple Ridge,Greater Vancouver,2,1,800,House
+156,"1,225",814 4th Avenue,Uptown,New Westminster,Greater Vancouver,0,1,600,Apt/Condo
+157,"1,575",295 Francis Way,Fraserview,New Westminster,Greater Vancouver,1,1,500,Apt/Condo
+158,"1,685",321 Agnes,Downtown New West,New Westminster,Greater Vancouver,2,1,728,Apt/Condo
+159,"1,600",624 Agnes Street,Downtown New West,New Westminster,Greater Vancouver,1,1,732,Apt/Condo
+160,"1,350",814 4th Avenue,Uptown,New Westminster,Greater Vancouver,1,1,600,Apt/Condo
+161,"2,295",295 Francis Way,Fraserview,New Westminster,Greater Vancouver,2,2,850,Apt/Condo
+162,"1,350",525 11th St,Uptown,New Westminster,Greater Vancouver,1,1,0,Apt/Condo
+163,"1,905",855 McBride Boulevard,The Heights,New Westminster,Greater Vancouver,2,2,1075,Apt/Condo
+164,"1,535",855 McBride Boulevard,The Heights,New Westminster,Greater Vancouver,1,1,850,Apt/Condo
+165,"1,598",318 Agnes Street,Downtown New West,New Westminster,Greater Vancouver,1,1,0,Apt/Condo
+166,"1,610",820 6th Avenue,Uptown,New Westminster,Greater Vancouver,1,1,625,Apt/Condo
+167,"1,650",215 10th Street,Uptown,New Westminster,Greater Vancouver,2,1,750,Apt/Condo
+168,"1,425",1211 Cameron St.,Uptown,New Westminster,Greater Vancouver,1,1,479,Apt/Condo
+169,"1,700",1211 Cameron St.,Uptown,New Westminster,Greater Vancouver,2,1,777,Apt/Condo
+170,"1,425",1210 Cameron St.,Uptown,New Westminster,Greater Vancouver,1,1,479,Apt/Condo
+171,"1,700",1210 Cameron St.,Uptown,New Westminster,Greater Vancouver,2,1,777,Apt/Condo
+172,"1,550",809 4th Avenue,Uptown,New Westminster,Greater Vancouver,1,1,450,Apt/Condo
+173,"4,500",1918 Iron Court,Indian River,North Vancouver,Greater Vancouver,6,3,2600,House
+174,"3,500",118 Carrie Cates Court,Lower Lonsdale,North Vancouver,Greater Vancouver,2,2,909,Apt/Condo
+175,"2,400",1327 Keith Road,Calverhall,North Vancouver,Greater Vancouver,2,2,1131,Apt/Condo
+176,"2,890",2151 Front Street,Seymour,North Vancouver,Greater Vancouver,2,2,822,Apt/Condo
+177,"3,400",154 18th Street East,Central Lonsdale,North Vancouver,Greater Vancouver,3,2,906,Apt/Condo
+178,"1,675",154 18th Street East,Central Lonsdale,North Vancouver,Greater Vancouver,0,1,403,Apt/Condo
+179,"2,500",154 18th Street East,Central Lonsdale,North Vancouver,Greater Vancouver,2,2,764,Apt/Condo
+180,"1,900",154 18th Street East,Central Lonsdale,North Vancouver,Greater Vancouver,1,1,507,Apt/Condo
+181,"2,900",29 728 West 14th Street,Mosquito Creek,North Vancouver,Greater Vancouver,2,1,1141,House
+182,"1,925",151 15th St E,Central Lonsdale,North Vancouver,Greater Vancouver,1,1,543,Apt/Condo
+183,"2,800",151 15th St E,Central Lonsdale,North Vancouver,Greater Vancouver,2,2,790,Apt/Condo
+184,"2,200",151 15th St E,Central Lonsdale,North Vancouver,Greater Vancouver,0,1,600,Apt/Condo
+185,"2,590",175 Victory Ship Way,Lower Lonsdale,North Vancouver,Greater Vancouver,1,2,650,Apt/Condo
+186,"1,500",1 Emerson Court,Blueridge,North Vancouver,Greater Vancouver,2,1,1703,House
+187,"2,350",1677 Lloyd Avenue,Norgate,North Vancouver,Greater Vancouver,2,2,872,Apt/Condo
+188,"1,600",4664 Highland Boulevard,Canyon Heights,North Vancouver,Greater Vancouver,2,1,700,House
+189,"1,650",274 West 2nd Street,Lower Lonsdale,North Vancouver,Greater Vancouver,1,1,551,Apt/Condo
+190,"2,600",413 177 West 3rd Street,Lower Lonsdale,North Vancouver,Greater Vancouver,2,2,841,House
+191,"1,600",3896 Lewister Road,Edgemont,North Vancouver,Greater Vancouver,1,1,600,House
+192,"2,100",2151 Front Street,Seymour,North Vancouver,Greater Vancouver,1,1,549,Apt/Condo
+193,"2,800",1060 Churchill Crescent,Norgate,North Vancouver,Greater Vancouver,2,2,780,Apt/Condo
+194,"3,450",1060 Churchill Crescent,Norgate,North Vancouver,Greater Vancouver,2,2,1080,Apt/Condo
+195,"2,300",1060 Churchill Crescent,Norgate,North Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+196,"2,250",1441 St. Georges Ave,Central Lonsdale,North Vancouver,Greater Vancouver,1,1,543,Apt/Condo
+197,"2,745",1441 St. Georges Ave,Central Lonsdale,North Vancouver,Greater Vancouver,2,1,848,Apt/Condo
+198,"3,575",1441 St. Georges Ave,Central Lonsdale,North Vancouver,Greater Vancouver,3,2,1089,Apt/Condo
+199,"3,200",4477 Primrose Lane,Canyon Heights,North Vancouver,Greater Vancouver,3,2,1400,House
+200,"2,250",1210 125 E 14th Street,Central Lonsdale,North Vancouver,Greater Vancouver,1,1,550,House
+201,"1,400",136 5th Street East,Lower Lonsdale,North Vancouver,Greater Vancouver,1,1,707,Apt/Condo
+202,"2,400",3rd Street West,Lower Lonsdale,North Vancouver,Greater Vancouver,2,1,904,Apt/Condo
+203,"3,000",409 118 Carrie Cates Court,Lower Lonsdale,North Vancouver,Greater Vancouver,2,2,900,House
+204,"1,800",1003 W Keith Road,Pemberton Heights,North Vancouver,Greater Vancouver,0,1,815,House
+205,"1,990",740 East 3rd Street,Queensbury,North Vancouver,Greater Vancouver,2,1,875,House
+206,"3,990",580 Raven Woods Drive,Roche Point,North Vancouver,Greater Vancouver,2,2,1262,Apt/Condo
+207,"1,795",809 Village Dr,Riverwood,Port Coquitlam,Greater Vancouver,1,1,0,Apt/Condo
+208,"1,800",2623 Burleigh Avenue,Central Port Coquitlam,Port Coquitlam,Greater Vancouver,2,2,0,Apt/Condo
+209,"1,650",2623 Burleigh Avenue,Central Port Coquitlam,Port Coquitlam,Greater Vancouver,1,1,0,Apt/Condo
+210,"1,825",809 Village Dr,Riverwood,Port Coquitlam,Greater Vancouver,1,1,605,Apt/Condo
+211,"2,350",809 Village Dr,Riverwood,Port Coquitlam,Greater Vancouver,2,2,0,Apt/Condo
+212,"1,500",Prairie Avenue,Lincoln Park,Port Coquitlam,Greater Vancouver,1,1,750,House
+213,"2,395",660 Nootka Way,Port Moody Centre,Port Moody,Greater Vancouver,2,2,920,Apt/Condo
+214,"1,700",110 Brew Street,Port Moody Centre,Port Moody,Greater Vancouver,1,1,650,Apt/Condo
+215,"1,950",103 West,Port Moody Centre,Port Moody,Greater Vancouver,1,1,667,Apt/Condo
+216,"2,300",1005 660 Nootka Way,Port Moody Centre,Port Moody,Greater Vancouver,2,2,902,House
+217,"9,500",2332 Clarke Street,Port Moody Centre,Port Moody,Greater Vancouver,0,,,Land/Lot
+218,"1,200",7399 Murdoch Avenue,Brighouse,Richmond,Greater Vancouver,0,1,445,Apt/Condo
+219,"2,300",3331 Brown Road,West Cambie,Richmond,Greater Vancouver,2,2,941,Apt/Condo
+220,"2,600",6 9019 Cook Road,Brighouse,Richmond,Greater Vancouver,3,2,1263,House
+221,"1,540",8071 Ryan Road,South Arm,Richmond,Greater Vancouver,2,1,850,Apt/Condo
+222,"1,925",7399 Murdoch Avenue,Brighouse,Richmond,Greater Vancouver,2,1,740,Apt/Condo
+223,"1,575",5500 Cooney Road,Brighouse,Richmond,Greater Vancouver,2,1,900,Apt/Condo
+224,"2,130",8071 Ryan Road,South Arm,Richmond,Greater Vancouver,3,2,1075,Apt/Condo
+225,"1,805",8071 Ryan Road,South Arm,Richmond,Greater Vancouver,2,1,850,Apt/Condo
+226,"1,385","100, 10100 No. 3 Road",South Arm,Richmond,Greater Vancouver,1,1,550,Apt/Condo
+227,"1,305","100, 10100 No. 3 Road",South Arm,Richmond,Greater Vancouver,0,1,440,Apt/Condo
+228,"1,565","100, 10100 No. 3 Road",South Arm,Richmond,Greater Vancouver,1,1,550,Apt/Condo
+229,"1,495",8660 Granville Avenue,Brighouse South,Richmond,Greater Vancouver,1,1,600,Apt/Condo
+230,"3,250",804 6622 Pearson,Brighouse,Richmond,Greater Vancouver,2,2,1040,House
+231,"1,800",1025 8988 Patterson Road,West Cambie,Richmond,Greater Vancouver,1,1,716,House
+232,"2,400",631 8988 Patterson Road,West Cambie,Richmond,Greater Vancouver,2,2,1001,House
+233,"1,750",1117 3300 Ketcheson Road,West Cambie,Richmond,Greater Vancouver,1,1,585,House
+234,"1,800",1108 3233 Ketcheson Road,West Cambie,Richmond,Greater Vancouver,1,1,545,House
+235,"2,200",715 3233 Ketcheson Road,West Cambie,Richmond,Greater Vancouver,2,2,840,House
+236,"2,450",1102 8800 Hazelbridge Way,West Cambie,Richmond,Greater Vancouver,2,2,878,House
+237,"1,800",709 8800 Hazelbridge Way,West Cambie,Richmond,Greater Vancouver,1,1,606,House
+238,"2,300",1009 5599 Cooney,Brighouse,Richmond,Greater Vancouver,2,2,960,House
+239,"2,150",6633 Pearson Way,Brighouse,Richmond,Greater Vancouver,2,1,660,Apt/Condo
+240,"1,300",219 8031 Ryan Road,South Arm,Richmond,Greater Vancouver,1,1,675,Apt/Condo
+241,"2,750",8591 Blundell Road,Brighouse South,Richmond,Greater Vancouver,5,3,1953,Townhouse
+242,"2,400",1510 3300 Ketcheson Road,West Cambie,Richmond,Greater Vancouver,2,2,839,House
+243,"1,600",11268 Williams Road,Ironwood,Richmond,Greater Vancouver,2,1,800,House
+244,"2,125",909 8833 Hazelbridge Way,West Cambie,Richmond,Greater Vancouver,2,2,797,House
+245,"3,300",205 8800 Hazelbridge Way,West Cambie,Richmond,Greater Vancouver,3,3,1159,House
+246,"1,900",3311 Ketcheson Road,West Cambie,Richmond,Greater Vancouver,1,1,650,Apt/Condo
+247,"3,000",3 8160 Lansdowne Road,Brighouse,Richmond,Greater Vancouver,4,2,1300,House
+248,"3,200",1582 3311 Ketcheson Road,West Cambie,Richmond,Greater Vancouver,3,2,1127,House
+249,"2,400",6288 No. 3 Road Road,Brighouse,Richmond,Greater Vancouver,2,2,922,House
+250,"1,595",221 8051 Ryan Road,South Arm,Richmond,Greater Vancouver,1,1,680,House
+251,"3,150",307 8800 Hazelbridge Way,West Cambie,Richmond,Greater Vancouver,3,3,1227,House
+252,"4,695",3313 Trutch Avenue,Terra Nova,Richmond,Greater Vancouver,4,3,2620,House
+253,"2,500",1605 5599 Cooney Road,Brighouse,Richmond,Greater Vancouver,2,2,947,House
+254,"2,350",912 8688 Hazelbridge,West Cambie,Richmond,Greater Vancouver,2,2,860,House
+255,"2,300",6633 Pearson Way,Brighouse,Richmond,Greater Vancouver,2,1,660,Apt/Condo
+256,"2,400",1505 8120 Lansdowne Road,Brighouse,Richmond,Greater Vancouver,2,2,1316,House
+257,"3,500",6633 Pearson Way,Brighouse,Richmond,Greater Vancouver,2,2,1010,House
+258,"3,600",5xx 5199 Brighouse Way,Brighouse,Richmond,Greater Vancouver,2,2,1243,House
+259,"3,500",7180 Lechow Street,Mclennan North,Richmond,Greater Vancouver,3,2,1337,Townhouse
+260,"1,325",12747 102 Avenue,Cedar Hills,Surrey,Greater Vancouver,1,1,570,Apt/Condo
+261,"1,450",12747 102 Avenue,Cedar Hills,Surrey,Greater Vancouver,1,1,577,Apt/Condo
+262,"1,525",14831 101a Avenue,Guildford,Surrey,Greater Vancouver,2,1,840,Apt/Condo
+263,"2,200",9261 127 Street,Queen Mary Park,Surrey,Greater Vancouver,3,2,1350,House
+264,"1,350,000",1814 141a Street,Sunnyside Park,Surrey,Greater Vancouver,3,3,1864,House
+265,"1,995",13897 Fraser Highway,Whalley,Surrey,Greater Vancouver,2,2,800,Apt/Condo
+266,"1,350",12747 102 Avenue,Cedar Hills,Surrey,Greater Vancouver,0,0,565,Apt/Condo
+267,"1,175",10567 150 Street,Guildford,Surrey,Greater Vancouver,1,1,630,Apt/Condo
+268,"1,120",13352 105a Avenue,Whalley,Surrey,Greater Vancouver,1,1,650,Apt/Condo
+269,"1,015",13352 105a Avenue,Whalley,Surrey,Greater Vancouver,0,1,0,Apt/Condo
+270,"1,175",10557 150 Street,Guildford,Surrey,Greater Vancouver,1,1,630,Apt/Condo
+271,"1,225",13325 105 Avenue,Whalley,Surrey,Greater Vancouver,1,1,725,Apt/Condo
+272,"1,295",14831 101a Avenue,Guildford,Surrey,Greater Vancouver,1,1,730,Apt/Condo
+273,"1,450",10181 149 Street,Guildford,Surrey,Greater Vancouver,2,1,900,Apt/Condo
+274,"1,295",10181 149 Street,Guildford,Surrey,Greater Vancouver,1,1,730,Apt/Condo
+275,"1,295",13352 105a Avenue,Whalley,Surrey,Greater Vancouver,2,1,800,Apt/Condo
+276,"1,375",10567 150 Street,Guildford,Surrey,Greater Vancouver,2,1,800,Apt/Condo
+277,"1,350",10736 150 Street,Guildford,Surrey,Greater Vancouver,1,1,625,Apt/Condo
+278,"1,600",10736 150 Street,Guildford,Surrey,Greater Vancouver,2,1,864,Apt/Condo
+279,"1,800",10736 150 Street,Guildford,Surrey,Greater Vancouver,3,1,1039,Apt/Condo
+280,"1,300",107 A Avenue,Guildford,Surrey,Greater Vancouver,1,1,550,Apt/Condo
+281,"1,600",107 A Avenue,Guildford,Surrey,Greater Vancouver,2,1,750,Apt/Condo
+282,"1,750",107 A Avenue,Guildford,Surrey,Greater Vancouver,3,1,900,Apt/Condo
+283,"1,700",12751 103 Avenue,Cedar Hills,Surrey,Greater Vancouver,3,1,950,Apt/Condo
+284,"1,325",9555 128 Street,Queen Mary Park,Surrey,Greater Vancouver,1,1,550,Apt/Condo
+285,"1,550",9555 128 Street,Queen Mary Park,Surrey,Greater Vancouver,2,1,950,Apt/Condo
+286,"1,750",9555 128 Street,Queen Mary Park,Surrey,Greater Vancouver,3,1,1000,Apt/Condo
+287,"1,750",9450 128 Street,Queen Mary Park,Surrey,Greater Vancouver,3,1,1102,Apt/Condo
+288,"1,250",12751 103 Avenue,Cedar Hills,Surrey,Greater Vancouver,1,1,600,Apt/Condo
+289,"1,400",12751 103 Avenue,Cedar Hills,Surrey,Greater Vancouver,2,1,0,Apt/Condo
+290,"1,325",7155 Hall Road,West Newton,Surrey,Greater Vancouver,1,1,585,Apt/Condo
+291,"1,850",14831 104 Avenue,Guildford,Surrey,Greater Vancouver,3,1,1120,Apt/Condo
+292,"1,200",9450 128 Street,Queen Mary Park,Surrey,Greater Vancouver,0,1,510,Apt/Condo
+293,"1,325",9450 128 Street,Queen Mary Park,Surrey,Greater Vancouver,1,1,669,Apt/Condo
+294,"1,500",9450 128 Street,Queen Mary Park,Surrey,Greater Vancouver,2,1,818,Apt/Condo
+295,"1,600",7155 Hall Road,West Newton,Surrey,Greater Vancouver,2,1,773,Apt/Condo
+296,"1,850",7155 Hall Road,West Newton,Surrey,Greater Vancouver,3,1,1093,Apt/Condo
+297,"1,550",11022 136 Street,Bolivar Heights,Surrey,Greater Vancouver,2,1,975,Apt/Condo
+298,"1,350",14831 104 Avenue,Guildford,Surrey,Greater Vancouver,1,1,664,Apt/Condo
+299,"1,750",11022 136 Street,Bolivar Heights,Surrey,Greater Vancouver,3,1,1100,Apt/Condo
+300,"1,650",14831 104 Avenue,Guildford,Surrey,Greater Vancouver,2,1,912,Apt/Condo
+301,"1,350",14921 104 Avenue,Guildford,Surrey,Greater Vancouver,1,1,662,Apt/Condo
+302,"1,650",14921 104 Avenue,Guildford,Surrey,Greater Vancouver,2,1,928,Apt/Condo
+303,"1,850",14921 104 Avenue,Guildford,Surrey,Greater Vancouver,3,1,1120,Apt/Condo
+304,"1,250",5836 138 Street,Panorama Ridge,Surrey,Greater Vancouver,2,1,850,House
+305,"2,100",8473 163 Street,Fleetwood Tynehead,Surrey,Greater Vancouver,3,2,1202,Townhouse
+306,"1,800",407 19530 65 Avenue,Clayton,Surrey,Greater Vancouver,1,1,796,House
+307,"2,350",Upper-12913 74 Avenue,West Newton,Surrey,Greater Vancouver,3,2,1574,House
+308,"2,100",90 15340 Guilford Drive,Guildford,Surrey,Greater Vancouver,2,2,1249,House
+309,"1,400",13398 104 Avenue,Whalley,Surrey,Greater Vancouver,1,1,499,Apt/Condo
+310,"1,525",303 13696 100th Avenue,Whalley,Surrey,Greater Vancouver,1,1,538,House
+311,"1,775",1409 13688 100th Avenue,Whalley,Surrey,Greater Vancouver,2,2,844,House
+312,"1,750",3609 13696 100th Avenue,Whalley,Surrey,Greater Vancouver,2,1,655,House
+313,"2,199",12685 110 Avenue,Whalley,Surrey,Greater Vancouver,2,2,,Apt/Condo
+314,"1,669",12685 110 Avenue,Whalley,Surrey,Greater Vancouver,1,1,,Apt/Condo
+315,"1,325",12685 110 Avenue,Whalley,Surrey,Greater Vancouver,1,1,,Apt/Condo
+316,"1,196",12685 110 Avenue,Whalley,Surrey,Greater Vancouver,0,1,,Apt/Condo
+317,"1,550",2603 13750 100th Avenue,Whalley,Surrey,Greater Vancouver,1,1,538,House
+318,"1,500",2305 13696 100th Avenue,Whalley,Surrey,Greater Vancouver,1,1,535,House
+319,"2,000",13963 105a Avenue,Whalley,Surrey,Greater Vancouver,2,2,916,Apt/Condo
+320,"1,475",4008 13696 100th Avenue,Whalley,Surrey,Greater Vancouver,1,1,515,House
+321,"1,250",19186 73 Avenue,Clayton,Surrey,Greater Vancouver,1,1,477,House
+322,"1,675",1212 13696 100th Avenue,Whalley,Surrey,Greater Vancouver,2,1,655,House
+323,"1,250",8162 156 Street,Fleetwood Tynehead,Surrey,Greater Vancouver,2,1,,House
+324,"2,575",13720 100th Avenue,Whalley,Surrey,Greater Vancouver,3,2,1343,House
+325,"2,000",9688 148 Street,Guildford,Surrey,Greater Vancouver,2,2,1148,Apt/Condo
+326,"2,400",15619 18a Avenue,King George Corridor,Surrey,Greater Vancouver,3,2,,House
+327,"1,650",203 9981 Whalley Boulevard,Whalley,Surrey,Greater Vancouver,1,1,766,House
+328,"3,100",Surrey,White Rock,Surrey,Greater Vancouver,2,2,1109,House
+329,"1,650",13495 Central Avenue,Whalley,Surrey,Greater Vancouver,1,1,515,Apt/Condo
+330,"1,600",836 160 Street,King George Corridor,Surrey,Greater Vancouver,1,1,700,House
+331,"1,150",7129 195 Street,Clayton,Surrey,Greater Vancouver,1,1,500,House
+332,"2,000",14923 96 Avenue,Guildford,Surrey,Greater Vancouver,3,1,,House
+333,"1,325",408 13618 100 Avenue,Whalley,Surrey,Greater Vancouver,1,1,529,House
+334,"2,995",15165 Thrift Avenue,White Rock,Surrey,Greater Vancouver,2,2,1407,Townhouse
+335,"1,500",5692 144 Street,Sullivan Station,Surrey,Greater Vancouver,2,1,850,House
+336,"2,900",15782 89a Avenue,Fleetwood Tynehead,Surrey,Greater Vancouver,3,3,2270,House
+337,"1,500",14678 Saint Andrews Drive,Bolivar Heights,Surrey,Greater Vancouver,2,1,850,House
+338,"2,465",13555 96 Avenue,Whalley,Surrey,Greater Vancouver,2,2,,Apt/Condo
+339,"2,000",9688 124a Street,Cedar Hills,Surrey,Greater Vancouver,3,1,1100,House
+340,"1,750",2107 13750 100 Avenue,Whalley,Surrey,Greater Vancouver,1,1,512,House
+341,"1,400",14036 60 Avenue,Sullivan Station,Surrey,Greater Vancouver,2,1,825,House
+342,"1,600",12690 105a Avenue,Cedar Hills,Surrey,Greater Vancouver,2,1,670,House
+343,"1,550",2581 168 Street,Grandview,Surrey,Greater Vancouver,2,1,900,House
+344,"2,300",8130 136a Street,Bear Creek Green Timbers,Surrey,Greater Vancouver,3,2,1400,Townhouse
+345,"1,735",13555 96 Avenue,Whalley,Surrey,Greater Vancouver,1,1,,Apt/Condo
+346,"6,000",1684 Alberni St.,West End,Vancouver,Greater Vancouver,3,2,2700,Apt/Condo
+347,"2,750",1908 Scotia Street,Mount Pleasant East,Vancouver,Greater Vancouver,2,2,850,Apt/Condo
+348,"1,517",6090 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,0,1,410,Apt/Condo
+349,"2,172",6090 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+350,"2,400",938 Smithe Street,Yaletown,Vancouver,Greater Vancouver,1,1,621,Apt/Condo
+351,"1,975",1155 Homer Street,Yaletown,Vancouver,Greater Vancouver,1,1,647,Apt/Condo
+352,"2,500",1352 West 7th Avenue,Fairview,Vancouver,Greater Vancouver,2,3,1173,Townhouse
+353,"1,950",1925 Maple Street,Kitsilano,Vancouver,Greater Vancouver,1,1,452,Apt/Condo
+354,"1,702",930 Seymour Street,Downtown West,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+355,"5,200",1607 3355 Binning Road,University (Ubc),Vancouver,Greater Vancouver,3,4,1531,House
+356,"2,150",33 Water Street,Coal Harbour,Vancouver,Greater Vancouver,0,1,670,Apt/Condo
+357,"2,200",1199 Seymour Street,Downtown West,Vancouver,Greater Vancouver,1,1,632,Apt/Condo
+358,"2,400",602 5629 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,1,1,686,House
+359,"3,000",408 1529 W 6th Avenue,False Creek,Vancouver,Greater Vancouver,1,2,761,House
+360,"1,900",1480 Howe Street,Yaletown,Vancouver,Greater Vancouver,0,1,474,Apt/Condo
+361,"1,350",3683 East Hastings Street,Hastings Sunrise,Vancouver,Greater Vancouver,0,1,0,Apt/Condo
+362,"5,250",1000 Beach Avenue,Yaletown,Vancouver,Greater Vancouver,2,2,1400,Apt/Condo
+363,"1,980",969 Richards Street,Yaletown,Vancouver,Greater Vancouver,1,1,595,Apt/Condo
+364,"1,400",2917 McGill Street,Hastings Sunrise,Vancouver,Greater Vancouver,2,1,750,House
+365,"1,600",1450 Chestnut St,Kitsilano,Vancouver,Greater Vancouver,1,1,575,Apt/Condo
+366,"2,300",1788 Columbia Street,False Creek,Vancouver,Greater Vancouver,1,1,594,Apt/Condo
+367,"1,400",1450 Chestnut St,Kitsilano,Vancouver,Greater Vancouver,1,1,575,Apt/Condo
+368,"1,400",1450 Chestnut St,Kitsilano,Vancouver,Greater Vancouver,1,1,575,Apt/Condo
+369,"1,500",1450 Chestnut St,Kitsilano,Vancouver,Greater Vancouver,1,1,575,Apt/Condo
+370,"3,450",2233 Allison Road,University (Ubc),Vancouver,Greater Vancouver,3,2,1150,Apt/Condo
+371,"4,200",1372 Seymour Street,Downtown West,Vancouver,Greater Vancouver,2,2,958,Apt/Condo
+372,"9,450",1111 Richards Street,Yaletown,Vancouver,Greater Vancouver,3,2,1300,Apt/Condo
+373,"1,950",5728 Berton Avenue,University (Ubc),Vancouver,Greater Vancouver,1,1,561,Apt/Condo
+374,"4,000",3389 West 24th Ave,Dunbar,Vancouver,Greater Vancouver,3,2,1750,House
+375,"1,795",2277 West 2nd Avenue,Kitsilano,Vancouver,Greater Vancouver,1,1,700,Apt/Condo
+376,"2,030",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+377,"2,060",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+378,"2,390",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+379,"2,600",1902 1325 Rolston Street,Downtown West,Vancouver,Greater Vancouver,2,2,880,House
+380,"2,075",977 Mainland St,Yaletown,Vancouver,Greater Vancouver,1,1,638,Apt/Condo
+381,"2,500",933 Hornby Street,Downtown West,Vancouver,Greater Vancouver,2,2,856,Apt/Condo
+382,"2,200",1205 Howe Street,Downtown West,Vancouver,Greater Vancouver,1,1,617,Apt/Condo
+383,"1,950",58 Keefer Pl,Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+384,"30,000",1372 Seymour Street,Downtown West,Vancouver,Greater Vancouver,4,1,5780,Apt/Condo
+385,"2,150",1009 Expo Boulevard,Yaletown,Vancouver,Greater Vancouver,1,1,677,Apt/Condo
+386,"2,800",1051 Broughton Street,West End,Vancouver,Greater Vancouver,2,2,0,Apt/Condo
+387,"3,800",308 655 W 41st Avenue,Cambie,Vancouver,Greater Vancouver,3,2,1195,House
+388,"3,600",87 Nelson Street,West End,Vancouver,Greater Vancouver,2,2,880,Apt/Condo
+389,"1,950",1010 Richards Street,Yaletown,Vancouver,Greater Vancouver,1,1,570,Apt/Condo
+390,"5,400",1415 Georgia Street,Hastings,Vancouver,Greater Vancouver,2,2,1957,Apt/Condo
+391,"2,900",3533 Ross Drive,University (Ubc),Vancouver,Greater Vancouver,2,2,976,Apt/Condo
+392,"1,800",7665 French Street,Marpole,Vancouver,Greater Vancouver,2,2,1110,House
+393,"2,200",3281 E Kent Ave North,South Marine,Vancouver,Greater Vancouver,2,2,973,Apt/Condo
+394,"1,600",626 Alexander Street,Strathcona,Vancouver,Greater Vancouver,1,1,551,Apt/Condo
+395,"1,530",3433 Crowley Drive,Collingwood,Vancouver,Greater Vancouver,0,1,436,Apt/Condo
+396,"6,000",5569 University Boulevard,University (Ubc),Vancouver,Greater Vancouver,6,2,3500,House
+397,"1,640",5603 Balsam Street,Kerrisdale,Vancouver,Greater Vancouver,1,1,617,Apt/Condo
+398,"2,500",7th West 7th Avenue,Mount Pleasant West,Vancouver,Greater Vancouver,1,1,650,House
+399,"3,900",3593 W 30th Ave,Dunbar,Vancouver,Greater Vancouver,3,2,1155,Apt/Condo
+400,"1,875",1075 Jervis Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+401,"2,600",2919 McGill Street,Hastings Sunrise,Vancouver,Greater Vancouver,3,2,1300,House
+402,"2,600",1323 Homer Street,Yaletown,Vancouver,Greater Vancouver,2,1,874,Apt/Condo
+403,"4,800",1132 Connaught Drive,Shaughnessy,Vancouver,Greater Vancouver,2,2,0,House
+404,"4,900",1132 Connaught Drive Connaught Drive,Shaughnessy,Vancouver,Greater Vancouver,2,2,1649,House
+405,"2,050",610 Granville Street,False Creek,Vancouver,Greater Vancouver,1,1,505,Apt/Condo
+406,"5,350",2140 Waterloo Street,Kitsilano,Vancouver,Greater Vancouver,3,3,1800,Duplex
+407,"2,100",878 East,Fraser East,Vancouver,Greater Vancouver,2,1,750,House
+408,"3,900",33 Water Street,Coal Harbour,Vancouver,Greater Vancouver,1,3,1580,Apt/Condo
+409,"2,550",1933 East,Shaughnessy,Vancouver,Greater Vancouver,2,2,0,Apt/Condo
+410,"2,883",75 West 1st Avenue,False Creek,Vancouver,Greater Vancouver,1,1,790,Apt/Condo
+411,"2,500",2220 Kingsway Street,Victoria East,Vancouver,Greater Vancouver,2,2,720,Apt/Condo
+412,"2,170",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+413,"2,400",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+414,"1,795",1130 East Broadway,Mount Pleasant East,Vancouver,Greater Vancouver,1,1,587,Apt/Condo
+415,"2,295",1130 East Broadway,Mount Pleasant East,Vancouver,Greater Vancouver,2,1,681,Apt/Condo
+416,"1,495",1130 East Broadway,Mount Pleasant East,Vancouver,Greater Vancouver,0,1,416,Apt/Condo
+417,"3,475",199 Drake Street,Downtown West,Vancouver,Greater Vancouver,2,2,1100,Apt/Condo
+418,"2,100",5728 Berton Avenue,University (Ubc),Vancouver,Greater Vancouver,1,1,562,Apt/Condo
+419,"2,350",1082 Seymour Street,Downtown West,Vancouver,Greater Vancouver,1,1,675,Apt/Condo
+420,"2,400",1082 Seymour Street,Downtown West,Vancouver,Greater Vancouver,1,1,702,Apt/Condo
+421,"2,250",1933 East,Shaughnessy,Vancouver,Greater Vancouver,2,1,883,Apt/Condo
+422,"1,995",1130 East Broadway,Mount Pleasant East,Vancouver,Greater Vancouver,1,1,587,Apt/Condo
+423,"3,400",5628 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,3,3,1217,Apt/Condo
+424,"3,495",889 Homer Street,Yaletown,Vancouver,Greater Vancouver,2,2,1300,Apt/Condo
+425,"1,900",8555 Granville Street,Southwest Marine,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+426,"2,700",5629 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,751,Apt/Condo
+427,"2,575",#711-1571 West 57th Avenue,South Cambie,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+428,"3,200",1200 Hornby Street,Yaletown,Vancouver,Greater Vancouver,2,1,840,Apt/Condo
+429,"1,700",610 Granville Street,False Creek,Vancouver,Greater Vancouver,1,1,500,Apt/Condo
+430,"3,400",1200 Hornby Street,Yaletown,Vancouver,Greater Vancouver,2,2,973,Apt/Condo
+431,"1,600",3258 West,Kitsilano,Vancouver,Greater Vancouver,2,1,700,House
+432,"3,025",2626 West,Kitsilano,Vancouver,Greater Vancouver,2,2,1200,House
+433,"2,896",930 Seymour Street,Downtown West,Vancouver,Greater Vancouver,2,2,915,Apt/Condo
+434,"2,300",89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,500,Apt/Condo
+435,"2,100",938 Smithe Street,Downtown West,Vancouver,Greater Vancouver,0,1,448,Apt/Condo
+436,"1,525",3528 Vanness Ave,Collingwood,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+437,"3,000",1051 Broughton Street,West End,Vancouver,Greater Vancouver,2,2,0,Apt/Condo
+438,"3,500",2220 Kingsway Street,Victoria East,Vancouver,Greater Vancouver,3,2,1139,Apt/Condo
+439,"1,650",8755 Laurel Street,Marpole,Vancouver,Greater Vancouver,2,1,850,Apt/Condo
+440,"2,200",2409 977 Mainland Street,Yaletown,Vancouver,Greater Vancouver,1,1,505,House
+441,"2,700",1003 555 Jervis Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,600,House
+442,"1,650",1275 Comox Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+443,"1,975",321 Railway Street,Strathcona,Vancouver,Greater Vancouver,0,1,775,Apt/Condo
+444,"2,500",488 Helmcken Street,Yaletown,Vancouver,Greater Vancouver,2,2,884,Apt/Condo
+445,"1,870",6090 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+446,"1,966",6090 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+447,"2,700",1010 Richards Street,Yaletown,Vancouver,Greater Vancouver,2,2,741,Apt/Condo
+448,"3,600",2101 888 Hamilton Street,Downtown West,Vancouver,Greater Vancouver,2,2,964,House
+449,"2,045",1110 909 Mainland Street,Yaletown,Vancouver,Greater Vancouver,1,1,565,House
+450,"2,900",809 5868 Agronomy Road,University (Ubc),Vancouver,Greater Vancouver,2,2,840,House
+451,"2,250",1933 East,Shaughnessy,Vancouver,Greater Vancouver,2,1,750,Apt/Condo
+452,"1,850",8555 Granville Street,Southwest Marine,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+453,"2,500",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+454,"3,260",1051 Broughton Street,West End,Vancouver,Greater Vancouver,2,2,0,Apt/Condo
+455,"3,300",1051 Broughton Street,West End,Vancouver,Greater Vancouver,2,2,0,Apt/Condo
+456,"2,400",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+457,"2,230",1051 Broughton Street,West End,Vancouver,Greater Vancouver,1,1,0,Apt/Condo
+458,"3,300",838 West Hastings,Downtown West,Vancouver,Greater Vancouver,2,2,915,Apt/Condo
+459,"1,950",1990 East 50th Ave.,Killarney,Vancouver,Greater Vancouver,2,1,670,Apt/Condo
+460,"1,600",8049 Cartier St,Marpole,Vancouver,Greater Vancouver,2,1,650,House
+461,"1,250",1086 Bute Street,West End,Vancouver,Greater Vancouver,0,1,380,Apt/Condo
+462,"2,150",5687 Gray Avenue,University (Ubc),Vancouver,Greater Vancouver,1,1,636,Apt/Condo
+463,"2,000",5777 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,1112,Apt/Condo
+464,"1,600",1251 Cardero Street,West End,Vancouver,Greater Vancouver,1,1,640,Apt/Condo
+465,"3,250",5555 Balsam St,Kerrisdale,Vancouver,Greater Vancouver,2,2,0,Apt/Condo
+466,"2,750",1783 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,2,1,696,Apt/Condo
+467,"4,850",1783 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,2,2,827,Apt/Condo
+468,"4,500",1783 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,3,2,905,Apt/Condo
+469,"2,975",1783 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,1,1,543,Apt/Condo
+470,"3,425",1783 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,2,2,827,Apt/Condo
+471,"2,300",1783 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,1,1,541,Apt/Condo
+472,"1,985",1783 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,1,1,432,Apt/Condo
+473,"1,750",1847 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,630,Apt/Condo
+474,"1,600",3083 East 26th Avenue,Renfrew Heights,Vancouver,Greater Vancouver,3,1,1000,Multifamily
+475,"1,550",1647 East Pender,Hastings,Vancouver,Greater Vancouver,0,1,405,Apt/Condo
+476,"2,800",5628 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,877,Apt/Condo
+477,"2,665",5728 Berton Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,881,Apt/Condo
+478,"2,750",2475 West Broadway Street,Kitsilano,Vancouver,Greater Vancouver,2,1,791,Apt/Condo
+479,"3,500",3487 Binning Road,University (Ubc),Vancouver,Greater Vancouver,3,2,1054,Apt/Condo
+480,"5,042",1763 Comox Street,West End,Vancouver,Greater Vancouver,3,2,1100,Apt/Condo
+481,"3,695",2233 Allison Road,University (Ubc),Vancouver,Greater Vancouver,3,2,1150,Apt/Condo
+482,"4,600",1351 Continental Street,Downtown West,Vancouver,Greater Vancouver,2,2,1104,Apt/Condo
+483,"2,600",3487 Binning Road,University (Ubc),Vancouver,Greater Vancouver,2,2,897,Apt/Condo
+484,"2,150",2475 West Broadway Street,Kitsilano,Vancouver,Greater Vancouver,1,1,639,Apt/Condo
+485,"1,828",75 West 1st Avenue,False Creek,Vancouver,Greater Vancouver,0,1,525,Apt/Condo
+486,"1,525",955 W 10th Ave.,Fairview,Vancouver,Greater Vancouver,1,1,700,Apt/Condo
+487,"2,650",33 Water Street,Coal Harbour,Vancouver,Greater Vancouver,1,2,1007,Apt/Condo
+488,"2,250",3550 West Broadway Street,Kitsilano,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+489,"3,060",939 Beatty Street,Yaletown,Vancouver,Greater Vancouver,2,2,911,Apt/Condo
+490,"2,600",5628 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,845,Apt/Condo
+491,"1,990",1249 Granville Street,Downtown West,Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+492,"2,400",1249 Granville Street,Downtown West,Vancouver,Greater Vancouver,1,1,684,Apt/Condo
+493,"2,050",1755 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,1,1,636,Apt/Condo
+494,"2,450",75 West 1st Avenue,False Creek,Vancouver,Greater Vancouver,2,1,753,Apt/Condo
+495,"1,895",1661 Davie Street,West End,Vancouver,Greater Vancouver,0,1,500,Apt/Condo
+496,"3,335",1661 Davie Street,West End,Vancouver,Greater Vancouver,2,2,1000,Apt/Condo
+497,"2,095",3433 Crowley Drive,Collingwood,Vancouver,Greater Vancouver,2,2,831,Apt/Condo
+498,"2,000",3528 Vanness Ave,Collingwood,Vancouver,Greater Vancouver,2,1,730,Apt/Condo
+499,"1,650",3433 Crowley Drive,Collingwood,Vancouver,Greater Vancouver,1,1,507,Apt/Condo
+500,"2,295",1661 Davie Street,West End,Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+501,"4,895",1661 Davie Street,West End,Vancouver,Greater Vancouver,3,2,1500,Apt/Condo
+502,"2,750",2233 Allison Road,University (Ubc),Vancouver,Greater Vancouver,2,2,970,Apt/Condo
+503,"2,400",2233 Allison Road,University (Ubc),Vancouver,Greater Vancouver,2,2,910,Apt/Condo
+504,"2,650",1188 Bidwell Street,West End,Vancouver,Greater Vancouver,1,1,600,Apt/Condo
+505,"4,425",1188 Bidwell Street,West End,Vancouver,Greater Vancouver,3,1,1080,Apt/Condo
+506,"1,894",939 Beatty Street,Yaletown,Vancouver,Greater Vancouver,1,1,491,Apt/Condo
+507,"2,425",1770 Pendrell Street,West End,Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+508,"3,275",699 Cardero Street,Coal Harbour,Vancouver,Greater Vancouver,2,2,944,Apt/Condo
+509,"1,945",4453 Main Street,Main,Vancouver,Greater Vancouver,1,1,540,Apt/Condo
+510,"2,450",699 Cardero Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,704,Apt/Condo
+511,"2,300",1618 W 6th Ave,Fairview,Vancouver,Greater Vancouver,1,1,528,Apt/Condo
+512,"3,590",1188 Bidwell Street,West End,Vancouver,Greater Vancouver,2,2,730,Apt/Condo
+513,"1,939",930 Seymour Street,Downtown West,Vancouver,Greater Vancouver,1,1,522,Apt/Condo
+514,"1,543",6090 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,0,1,410,Apt/Condo
+515,"1,795",6090 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,1,1,510,Apt/Condo
+516,"1,820",2233 Allison Road,University (Ubc),Vancouver,Greater Vancouver,1,1,665,Apt/Condo
+517,"1,620",2233 Allison Road,University (Ubc),Vancouver,Greater Vancouver,1,1,710,Apt/Condo
+518,"3,495",1770 Pendrell Street,West End,Vancouver,Greater Vancouver,2,2,860,Apt/Condo
+519,"2,650",1770 Pendrell Street,West End,Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+520,"2,675",1477 Continental Street,Yaletown,Vancouver,Greater Vancouver,1,1,500,Apt/Condo
+521,"3,575",1770 Pendrell Street,West End,Vancouver,Greater Vancouver,2,2,860,Apt/Condo
+522,"3,425",1477 Continental Street,Yaletown,Vancouver,Greater Vancouver,2,2,828,Apt/Condo
+523,"4,695",1770 Pendrell Street,West End,Vancouver,Greater Vancouver,3,2,1084,Apt/Condo
+524,"1,950",1477 Continental Street,Yaletown,Vancouver,Greater Vancouver,0,1,0,Apt/Condo
+525,"2,290",1188 Bidwell Street,West End,Vancouver,Greater Vancouver,0,1,500,Apt/Condo
+526,"2,576",939 Beatty Street,Yaletown,Vancouver,Greater Vancouver,2,2,733,Apt/Condo
+527,"3,068",1529 West Pender Street,Coal Harbour,Vancouver,Greater Vancouver,2,2,921,Apt/Condo
+528,"1,781",1529 West Pender Street,Coal Harbour,Vancouver,Greater Vancouver,0,1,463,Apt/Condo
+529,"2,367",1529 West Pender Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,595,Apt/Condo
+530,"1,740",1908 Scotia Street,Mount Pleasant East,Vancouver,Greater Vancouver,1,1,475,Apt/Condo
+531,"1,839",939 Beatty Street,Yaletown,Vancouver,Greater Vancouver,0,1,429,Apt/Condo
+532,"2,650",3533 Ross Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,912,Apt/Condo
+533,"2,455",3655 Victoria Drive,Victoria East,Vancouver,Greater Vancouver,2,1,610,Apt/Condo
+534,"1,920",3655 Victoria Drive,Victoria East,Vancouver,Greater Vancouver,1,1,469,Apt/Condo
+535,"2,950",3655 Victoria Drive,Victoria East,Vancouver,Greater Vancouver,3,2,849,Apt/Condo
+536,"1,595",3655 Victoria Drive,Victoria East,Vancouver,Greater Vancouver,0,1,439,Apt/Condo
+537,"2,600",788 Jervis Street,West End,Vancouver,Greater Vancouver,1,1,615,Apt/Condo
+538,"2,600",788 Jervis Street,West End,Vancouver,Greater Vancouver,1,1,602,Apt/Condo
+539,"1,860",788 Jervis Street,West End,Vancouver,Greater Vancouver,1,1,615,Apt/Condo
+540,"1,900",788 Jervis Street,West End,Vancouver,Greater Vancouver,1,1,602,Apt/Condo
+541,"1,575",788 Jervis Street,West End,Vancouver,Greater Vancouver,0,1,418,Apt/Condo
+542,"1,495",1057 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,480,Apt/Condo
+543,"3,759",1763 Comox Street,West End,Vancouver,Greater Vancouver,2,2,1100,Apt/Condo
+544,"1,490",1763 Comox Street,West End,Vancouver,Greater Vancouver,0,1,496,Apt/Condo
+545,"1,834",1763 Comox Street,West End,Vancouver,Greater Vancouver,1,1,533,Apt/Condo
+546,"1,953",1763 Comox Street,West End,Vancouver,Greater Vancouver,1,1,657,Apt/Condo
+547,"3,480",3311 W 7th Avenue,Kitsilano,Vancouver,Greater Vancouver,2,2,1022,House
+548,"1,900",1488 East 22nd Avenue,Knight,Vancouver,Greater Vancouver,3,1,1200,House
+549,"1,400",7455 Ashburn Street,Fraserview East,Vancouver,Greater Vancouver,2,1,650,House
+550,"2,000",1808 1723 Alberni Street,West End,Vancouver,Greater Vancouver,1,1,578,House
+551,"1,850",1706 161 W Georgia Street,Downtown West,Vancouver,Greater Vancouver,0,1,450,House
+552,"1,560",1460 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,453,Apt/Condo
+553,"1,450",1219 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+554,"2,100",833 Seymour Street,Downtown West,Vancouver,Greater Vancouver,1,1,654,Apt/Condo
+555,"2,700",938 Smithe Street,Downtown West,Vancouver,Greater Vancouver,1,1,870,Apt/Condo
+556,"1,850",3660 Vanness Avenue,Collingwood,Vancouver,Greater Vancouver,1,1,725,Apt/Condo
+557,"2,400",2689 Kingsway,Collingwood,Vancouver,Greater Vancouver,2,2,789,Apt/Condo
+558,"2,800",956 Richards Street,Yaletown,Vancouver,Greater Vancouver,2,2,750,Townhouse
+559,"3,100",1529 West 6th Avenue,False Creek,Vancouver,Greater Vancouver,1,1,875,Apt/Condo
+560,"1,950",821 Cambie Street,Downtown West,Vancouver,Greater Vancouver,1,1,600,Apt/Condo
+561,"3,775",2601 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,2,2,1055,House
+562,"3,100",2704 183 Keefer Place,Downtown West,Vancouver,Greater Vancouver,2,2,1183,House
+563,"3,900","7839 7839 Manitoba St, Vancouver, Bc V5x 2z9 Street",Marpole,Vancouver,Greater Vancouver,3,3,1686,House
+564,"2,200",53 West Hastings Street,Downtown West,Vancouver,Greater Vancouver,1,1,970,Apt/Condo
+565,"1,750",1177 Hornby Street,Downtown West,Vancouver,Greater Vancouver,1,1,700,Apt/Condo
+566,"4,200",378 W 64 Th Avenue,Marpole,Vancouver,Greater Vancouver,3,4,1700,House
+567,"1,865",1708 969 Richards Street,Downtown West,Vancouver,Greater Vancouver,1,1,585,House
+568,"2,000",4xx 528 W King Edward Avenue,Cambie,Vancouver,Greater Vancouver,1,1,600,House
+569,"1,950",401 1331 Homer Street,Yaletown,Vancouver,Greater Vancouver,1,1,788,House
+570,"6,000",4914 Queensland Road,University (Ubc),Vancouver,Greater Vancouver,3,2,2641,House
+571,"3,200",2606 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,2,2,762,House
+572,"2,400",5a 199 Drake Street,Yaletown,Vancouver,Greater Vancouver,2,2,944,House
+573,"2,150",3581 East Kent Avenue North,South Marine,Vancouver,Greater Vancouver,2,2,780,Apt/Condo
+574,"2,150",604 3581 E Kent Avenue,South Marine,Vancouver,Greater Vancouver,2,2,780,House
+575,"3,350",1405 Haro Street,West End,Vancouver,Greater Vancouver,3,1,970,Apt/Condo
+576,"1,950",777 Richards Street,Downtown West,Vancouver,Greater Vancouver,1,1,526,Apt/Condo
+577,"2,100",2108 1438 Richards Street,Yaletown,Vancouver,Greater Vancouver,1,1,725,House
+578,"1,975",602 1155 Homer Street,Yaletown,Vancouver,Greater Vancouver,1,1,647,House
+579,"1,600",Bsmt 3083 E 26 Avenue,Renfrew Heights,Vancouver,Greater Vancouver,3,1,1000,House
+580,"2,500",1352 W 7 Avenue,Fairview,Vancouver,Greater Vancouver,2,3,1173,House
+581,"2,200",33 W Woodstock Avenue,Cambie,Vancouver,Greater Vancouver,3,1,1049,House
+582,"1,950",1503 777 Richards Street,Downtown West,Vancouver,Greater Vancouver,1,1,526,House
+583,"2,290",103 1205 W 14th Avenue,Fairview,Vancouver,Greater Vancouver,2,2,800,House
+584,"2,690",1256 E 12th Avenue,Mount Pleasant East,Vancouver,Greater Vancouver,3,2,1440,House
+585,"2,690",1256 East 12th Avenue,Mount Pleasant East,Vancouver,Greater Vancouver,3,2,1440,Duplex
+586,"3,195",5676 Main Street,Main,Vancouver,Greater Vancouver,3,1,874,Duplex
+587,"1,795",233 Robson Street,Downtown West,Vancouver,Greater Vancouver,0,1,500,Apt/Condo
+588,"3,950",1847 East 6th Avenue,Grandview East,Vancouver,Greater Vancouver,2,1,,Duplex
+589,"2,250",1182 87 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,586,House
+590,"1,500",3568 E Pender Street,Renfrew,Vancouver,Greater Vancouver,2,1,715,House
+591,"3,300",902 1495 Richards Street,Yaletown,Vancouver,Greater Vancouver,2,2,1130,House
+592,"2,300",2786 Yale Street,Hastings Sunrise,Vancouver,Greater Vancouver,2,2,800,House
+593,"2,050",928 Homer Street,Yaletown,Vancouver,Greater Vancouver,1,1,534,Apt/Condo
+594,"2,200",1985 West 8th Avenue,Kitsilano,Vancouver,Greater Vancouver,1,1,694,Apt/Condo
+595,"1,975",1985 West 8th Avenue,Kitsilano,Vancouver,Greater Vancouver,1,1,694,Apt/Condo
+596,"2,600",1775 Quebec Street,Mount Pleasant East,Vancouver,Greater Vancouver,1,1,640,Apt/Condo
+597,"1,500",1460 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,509,Apt/Condo
+598,"1,790",588 Broughton Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,527,Apt/Condo
+599,"3,800",7fl 499 Broughton,Coal Harbour,Vancouver,Greater Vancouver,2,2,1270,House
+600,"1,790",1008 588 Broughton Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,527,House
+601,"4,000",1790 Bayshore Drive,Coal Harbour,Vancouver,Greater Vancouver,2,2,1045,Apt/Condo
+602,"2,700",5629 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,950,Apt/Condo
+603,"2,950",1283 Howe Street,Downtown West,Vancouver,Greater Vancouver,2,2,900,Townhouse
+604,"2,300",5085 Main Street,Main,Vancouver,Greater Vancouver,2,2,730,Apt/Condo
+605,"2,200",482 W 23rd Avenue,Cambie,Vancouver,Greater Vancouver,1,2,750,House
+606,"9,450",1111 Richards Street,Downtown West,Vancouver,Greater Vancouver,3,2,1300,Apt/Condo
+607,"2,850",2401 8031 Nunavut Lane,Marpole,Vancouver,Greater Vancouver,2,2,1050,House
+608,"3,300",2702 455 Beach Crescent,Yaletown,Vancouver,Greater Vancouver,2,2,1143,House
+609,"2,495",1808 668 Citadel Parade,Downtown West,Vancouver,Greater Vancouver,2,2,655,House
+610,"1,875",1105 1010 Richards Street,Yaletown,Vancouver,Greater Vancouver,1,1,650,House
+611,"2,250",3427 Commercial Street,Victoria East,Vancouver,Greater Vancouver,1,1,625,Apt/Condo
+612,"4,300",4031 Dunbar Street,Dunbar,Vancouver,Greater Vancouver,5,2,2340,House
+613,"3,100",6033 Gray Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,1027,Apt/Condo
+614,"2,700",1328 West Pender Street,Coal Harbour,Vancouver,Greater Vancouver,2,2,1157,Apt/Condo
+615,"2,300",1133 Hornby Street,Downtown West,Vancouver,Greater Vancouver,1,1,660,Apt/Condo
+616,"2,500",3581 Ross Drive,University (Ubc),Vancouver,Greater Vancouver,2,2,900,Apt/Condo
+617,"2,700",488 Southwest Marine Drive,Marpole,Vancouver,Greater Vancouver,2,2,840,Apt/Condo
+618,"1,850",1480 Howe Street,Yaletown,Vancouver,Greater Vancouver,1,1,400,Apt/Condo
+619,"1,500",1040 Pacific Street,West End,Vancouver,Greater Vancouver,1,1,508,Apt/Condo
+620,"13,800",Ph 620 Cardero Street,Coal Harbour,Vancouver,Greater Vancouver,3,3,2001,House
+621,"2,650",228 3563 Ross Drive,University (Ubc),Vancouver,Greater Vancouver,2,2,877,House
+622,"1,850",303 1480 Howe Street,Yaletown,Vancouver,Greater Vancouver,1,1,400,House
+623,"2,200",482 West 23rd Avenue,Cambie,Vancouver,Greater Vancouver,1,1,750,House
+624,"1,600",5629 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,1,1,450,Apt/Condo
+625,"2,580",2305 1775 Quebec Street,Mount Pleasant East,Vancouver,Greater Vancouver,2,2,829,House
+626,"1,925",1333 Hornby Street,Downtown West,Vancouver,Greater Vancouver,1,1,475,Apt/Condo
+627,"2,650",1189 Howe Street,Downtown West,Vancouver,Greater Vancouver,2,2,800,Apt/Condo
+628,"3,250",168 East 35th Avenue,Main,Vancouver,Greater Vancouver,2,2,1107,Apt/Condo
+629,"2,500",407 933 Hornby Street,Downtown West,Vancouver,Greater Vancouver,2,2,856,House
+630,"2,175",908 1205 Howe Street,Downtown West,Vancouver,Greater Vancouver,1,1,617,House
+631,"3,400",1200 Hornby Street,Downtown West,Vancouver,Greater Vancouver,2,2,1000,Apt/Condo
+632,"2,000",123 5777 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,1112,House
+633,"1,900",610 Granville Street,Downtown West,Vancouver,Greater Vancouver,1,1,523,Apt/Condo
+634,"1,950",1105 1408 Strathmore Mews,Yaletown,Vancouver,Greater Vancouver,1,1,583,House
+635,"2,600",66 West Cordova Street,Downtown West,Vancouver,Greater Vancouver,2,2,800,Apt/Condo
+636,"4,500",1540 West 2nd Avenue,False Creek,Vancouver,Greater Vancouver,1,1,970,Apt/Condo
+637,"5,800",1600 Howe Street,Yaletown,Vancouver,Greater Vancouver,2,2,1380,Apt/Condo
+638,"1,895",805 999 Seymour Street,Downtown West,Vancouver,Greater Vancouver,1,1,520,House
+639,"2,000",725 68 Smithe Street,Yaletown,Vancouver,Greater Vancouver,1,1,580,House
+640,"2,395",198 Aquarius Mews,Yaletown,Vancouver,Greater Vancouver,1,1,747,Apt/Condo
+641,"1,990",1230 Nelson Street,West End,Vancouver,Greater Vancouver,1,1,633,Apt/Condo
+642,"1,600",1801 939 Expo Boulevard,Yaletown,Vancouver,Greater Vancouver,0,1,450,House
+643,"2,800",2202 Keefer 63,Downtown West,Vancouver,Greater Vancouver,2,2,900,House
+644,"1,475",2185 West 8th Avenue,Kitsilano,Vancouver,Greater Vancouver,0,1,475,Apt/Condo
+645,"1,800",989 Beatty Street,Yaletown,Vancouver,Greater Vancouver,0,1,471,Apt/Condo
+646,"1,800",3470 E. 48th Avenue,Killarney,Vancouver,Greater Vancouver,2,1,700,House
+647,"2,200",152 E 63rd Avenue,South Vancouver,Vancouver,Greater Vancouver,3,2,1100,House
+648,"1,700",1661 Quebec Street,Mount Pleasant East,Vancouver,Greater Vancouver,1,1,453,Apt/Condo
+649,"3,100",168 Powell Street,Downtown East,Vancouver,Greater Vancouver,2,1,,Apt/Condo
+650,"2,200",2021 West 35th Avenue,Quilchena,Vancouver,Greater Vancouver,2,1,850,House
+651,"2,500",1206 1060 Alberni Street,West End,Vancouver,Greater Vancouver,1,1,730,House
+652,"2,950",2003 1111 Alberni Street,West End,Vancouver,Greater Vancouver,1,1,671,House
+653,"4,990",1483 Homer Street,Yaletown,Vancouver,Greater Vancouver,2,2,1480,Apt/Condo
+654,"2,200",38 West 1st Avenue,False Creek,Vancouver,Greater Vancouver,1,1,626,Apt/Condo
+655,"2,700",3427 Commercial Street,Victoria East,Vancouver,Greater Vancouver,2,1,850,Apt/Condo
+656,"1,750",1230 Nelson Street,West End,Vancouver,Greater Vancouver,1,1,635,Apt/Condo
+657,"2,000",707 1225 Richards,Downtown West,Vancouver,Greater Vancouver,1,1,420,House
+658,"4,750",1507 1033 Marinaside Crescent,Yaletown,Vancouver,Greater Vancouver,3,2,1297,House
+659,"2,995",68 Smithe Street,Downtown West,Vancouver,Greater Vancouver,2,2,816,Apt/Condo
+660,"2,500",2221 East 30th Avenue,Victoria East,Vancouver,Greater Vancouver,2,2,738,Apt/Condo
+661,"2,500",601 433 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,2,2,855,House
+662,"2,075",286 87 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,533,House
+663,"2,195",933 East Hastings Street,Strathcona,Vancouver,Greater Vancouver,2,1,795,Apt/Condo
+664,"2,150",3002 488 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,2,1,705,House
+665,"2,100",2502 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,513,House
+666,"2,300",1480 Howe Street,Yaletown,Vancouver,Greater Vancouver,1,1,478,Apt/Condo
+667,"4,000",1151 West Georgia Street,Coal Harbour,Vancouver,Greater Vancouver,2,2,874,Apt/Condo
+668,"2,000",1480 Howe Street,Yaletown,Vancouver,Greater Vancouver,0,1,433,Apt/Condo
+669,"2,450",1425 Haro Street,West End,Vancouver,Greater Vancouver,2,2,675,Apt/Condo
+670,"2,700",M206 5629 Birney Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,761,House
+671,"1,950",1319 938 Smithe Street,Downtown West,Vancouver,Greater Vancouver,1,1,635,House
+672,"2,150",5981 Gray Avenue,University (Ubc),Vancouver,Greater Vancouver,1,1,685,Apt/Condo
+673,"2,195",Xxx 555 W 14 Avenue,Fairview,Vancouver,Greater Vancouver,1,1,650,House
+674,"3,290",503 6080 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,2,3,1367,House
+675,"2,150",2731 West 39th Avenue,Kerrisdale,Vancouver,Greater Vancouver,2,1,500,Townhouse
+676,"2,950",1050 Burrard Street,Downtown West,Vancouver,Greater Vancouver,2,2,1015,Apt/Condo
+677,"3,700",411 5189 Cambie Street,Cambie,Vancouver,Greater Vancouver,3,2,1050,House
+678,"4,500",3980 Hudson Street,Shaughnessy,Vancouver,Greater Vancouver,3,2,3136,House
+679,"1,695",2220 Kingsway,Victoria East,Vancouver,Greater Vancouver,1,1,523,Apt/Condo
+680,"2,800",1050 Smithe Street,West End,Vancouver,Greater Vancouver,2,2,912,Apt/Condo
+681,"2,150",488 Southwest Marine Drive,Marpole,Vancouver,Greater Vancouver,2,1,705,Apt/Condo
+682,"2,200",1386 87 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,533,House
+683,"3,290",6080 Iona Drive,University (Ubc),Vancouver,Greater Vancouver,2,2,1367,Apt/Condo
+684,"2,000",2507 433 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,1,1,483,House
+685,"1,750",3623 Turner Street,Renfrew,Vancouver,Greater Vancouver,2,1,700,House
+686,"14,500",1128 West Georgia Street,West End,Vancouver,Greater Vancouver,2,2,2500,Apt/Condo
+687,"2,660",5687 Gray Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,931,Apt/Condo
+688,"1,900",1189 Howe Street,Downtown West,Vancouver,Greater Vancouver,1,1,550,Apt/Condo
+689,"1,900",504 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,496,House
+690,"1,850",709 111 W Georgia Street,Downtown West,Vancouver,Greater Vancouver,1,1,680,House
+691,"3,500",888 Bute Street,West End,Vancouver,Greater Vancouver,2,2,928,Apt/Condo
+692,"3,200",3201 1151 W Georgia Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,658,House
+693,"15,000",302 628 Kinghorne Mews,Yaletown,Vancouver,Greater Vancouver,2,3,2000,House
+694,"2,500",1508 1255 Seymour Street,Downtown West,Vancouver,Greater Vancouver,1,1,508,House
+695,"1,925",502 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,513,House
+696,"2,000",510 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,500,House
+697,"1,650",303 1295 Richards Street,Downtown West,Vancouver,Greater Vancouver,1,1,449,House
+698,"2,200",1581 87 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,513,House
+699,"2,270",2001 433 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,2,2,770,House
+700,"2,280",519 455 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,1,1,776,House
+701,"1,850",233 Robson Street,Downtown West,Vancouver,Greater Vancouver,0,1,500,Apt/Condo
+702,"3,500",262 W 59th Avenue,Marpole,Vancouver,Greater Vancouver,2,3,1627,House
+703,"4,500",1151 West Georgia Street,Coal Harbour,Vancouver,Greater Vancouver,2,2,874,Apt/Condo
+704,"2,200",308 4638 Gladstone Street,Victoria East,Vancouver,Greater Vancouver,2,2,800,House
+705,"1,995",1710 928 Homer Street,Yaletown,Vancouver,Greater Vancouver,1,1,575,House
+706,"20,000",Olympic Village,False Creek,Vancouver,Greater Vancouver,2,2,2400,Apt/Condo
+707,"1,995",989 Nelson Street,Downtown West,Vancouver,Greater Vancouver,1,1,575,Apt/Condo
+708,"2,000",710 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,500,House
+709,"1,685",2507 131 Regiment Square,Downtown West,Vancouver,Greater Vancouver,0,1,510,House
+710,"3,100",6033 Gray Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,1027,Apt/Condo
+711,"2,100",607 989 Richards Street,Downtown West,Vancouver,Greater Vancouver,1,1,615,House
+712,"3,650",804 518 Beatty Street,Downtown West,Vancouver,Greater Vancouver,1,2,1200,House
+713,"1,900",7777 Cambie Street,Marpole,Vancouver,Greater Vancouver,1,1,605,House
+714,"1,980",404 7777 Cambie Street,Marpole,Vancouver,Greater Vancouver,1,1,575,House
+715,"2,050",2502 602 Citadel Parade,Downtown West,Vancouver,Greater Vancouver,1,1,626,House
+716,"2,400",2209 433 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,2,2,760,House
+717,"2,195",311 E 16 Avenue,Mount Pleasant East,Vancouver,Greater Vancouver,1,1,600,House
+718,"1,800",1702 433 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,1,1,480,House
+719,"3,250",588 Broughton Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,675,Apt/Condo
+720,"2,575",811 Helmcken Street,Downtown West,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+721,"2,100",2306 610 Granville Street,Downtown West,Vancouver,Greater Vancouver,1,1,500,House
+722,"1,995",989 Nelson Street,Downtown West,Vancouver,Greater Vancouver,1,1,575,Apt/Condo
+723,"1,850",1102 433 SW Marine Drive,Marpole,Vancouver,Greater Vancouver,1,1,480,House
+724,"2,500",3742 Main Street,Main,Vancouver,Greater Vancouver,2,1,920,Apt/Condo
+725,"6,500",3282 West King Edward Avenue Avenue,Mackenzie Heights,Vancouver,Greater Vancouver,5,5,2925,House
+726,"2,250",682 87 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,590,House
+727,"2,600",307 3487 Binning Road,University (Ubc),Vancouver,Greater Vancouver,2,2,914,House
+728,"2,195",1010 Richards Street,Yaletown,Vancouver,Greater Vancouver,1,1,540,Apt/Condo
+729,"3,100",1706 89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,2,2,762,House
+730,"1,950",612 161 West Georgia Street,Downtown West,Vancouver,Greater Vancouver,1,1,601,House
+731,"2,600",1189 Howe Street,Downtown West,Vancouver,Greater Vancouver,2,2,800,Apt/Condo
+732,"3,100",506 688 Fairchild Road,Oakridge,Vancouver,Greater Vancouver,3,2,1355,House
+733,"1,350",4975 Elgin Street,Fraser East,Vancouver,Greater Vancouver,1,1,550,House
+734,"1,500",1309 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,1,1,600,Apt/Condo
+735,"2,300",89 Nelson Street,Yaletown,Vancouver,Greater Vancouver,1,1,500,Apt/Condo
+736,"1,300",3*** East 27th Avenue,Renfrew Heights,Vancouver,Greater Vancouver,2,1,620,House
+737,900,1895 Powell Street,Hastings,Vancouver,Greater Vancouver,0,140 sf,140,Apt/Condo
+738,"2,750",114 5687 Gray Avenue,University (Ubc),Vancouver,Greater Vancouver,2,2,950,House
+739,"2,150",1333 West Georgia Street,Coal Harbour,Vancouver,Greater Vancouver,1,1,670,Apt/Condo
+740,"2,500",1006 1288 Alberni Street,West End,Vancouver,Greater Vancouver,2,2,878,House
+741,"2,290",1205 West 14th Avenue,Fairview,Vancouver,Greater Vancouver,2,1,800,Townhouse
+742,"2,500",2906 939 Homer Street,Yaletown,Vancouver,Greater Vancouver,2,2,825,House
+743,"2,800",1806 3487 Binning Road,University (Ubc),Vancouver,Greater Vancouver,2,2,850,House
+744,"3,700",3487 Binning Road,University (Ubc),Vancouver,Greater Vancouver,3,2,1300,House
+745,"3,000",611 7128 Adera Street,South Granville,Vancouver,Greater Vancouver,2,2,1035,House
+746,"2,800",301 3581 Ross Drive,University (Ubc),Vancouver,Greater Vancouver,2,2,950,House
+747,"2,050",902 68 Smithe Street,Yaletown,Vancouver,Greater Vancouver,1,1,502,House
+748,"3,000",Ph2403 1010 Richards Street,Yaletown,Vancouver,Greater Vancouver,2,2,901,House
+749,"2,400",1408 8031 Nunavut Lane,Marpole,Vancouver,Greater Vancouver,2,2,780,House
+750,"2,950",1680 Bayshore Drive,Coal Harbour,Vancouver,Greater Vancouver,2,2,1020,Apt/Condo
+751,"2,795",2250 Commercial Drive,Grandview East,Vancouver,Greater Vancouver,1,1,745,Apt/Condo
+752,"2,000",1325 Rolston Street,Downtown West,Vancouver,Greater Vancouver,1,1,515,Apt/Condo
+753,"2,100",68 Smithe Street,Downtown West,Vancouver,Greater Vancouver,1,1,505,Apt/Condo
+754,"1,950",838 West Hastings Street,Downtown West,Vancouver,Greater Vancouver,1,1,601,Apt/Condo
+755,"1,950",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,421,Apt/Condo
+756,"2,650",1200 Alberni Street,West End,Vancouver,Greater Vancouver,2,2,742,Apt/Condo
+757,"2,150",5272 Elgin Street,Knight,Vancouver,Greater Vancouver,3,1,990,House
+758,"4,950",8 Smithe Mews,Yaletown,Vancouver,Greater Vancouver,2,2,1200,Apt/Condo
+759,"1,800",East 28th Avenue,Victoria East,Vancouver,Greater Vancouver,3,1,900,House
+760,"1,975",1325 Rolston Street,Downtown West,Vancouver,Greater Vancouver,1,1,512,Apt/Condo
+761,"3,000",508 West 29th Avenue,Cambie,Vancouver,Greater Vancouver,2,2,1010,Apt/Condo
+762,"2,200",161 West Georgia Street,Downtown West,Vancouver,Greater Vancouver,1,1,516,Apt/Condo
+763,"1,900",1425 Haro Street,West End,Vancouver,Greater Vancouver,1,1,537,Apt/Condo
+764,"1,600",1540 Haro Street,West End,Vancouver,Greater Vancouver,0,1,450,Apt/Condo
+765,"3,800",22 East Cordova Street,Downtown East,Vancouver,Greater Vancouver,1,1,770,Apt/Condo
+766,"2,950",1517 Comox Street,West End,Vancouver,Greater Vancouver,2,1,1114,Apt/Condo
+767,"1,895",1088 Richards Street,Yaletown,Vancouver,Greater Vancouver,1,1,560,Apt/Condo
+768,"3,950",1438 Richards Street,Yaletown,Vancouver,Greater Vancouver,2,2,1123,Apt/Condo
+769,"2,600",788 Hamilton Street,Downtown West,Vancouver,Greater Vancouver,2,1,733,Apt/Condo
+770,"2,200",233 Robson Street,Downtown West,Vancouver,Greater Vancouver,0,1,439,Apt/Condo
+771,"1,900",177 Robson Street,Downtown West,Vancouver,Greater Vancouver,1,1,511,Apt/Condo
+772,"1,600",1540 Haro Street,West End,Vancouver,Greater Vancouver,0,1,450,Apt/Condo
+773,"1,550",1540 Haro Street,West End,Vancouver,Greater Vancouver,0,1,450,Apt/Condo
+774,"2,000",1325 Rolston Street,Downtown West,Vancouver,Greater Vancouver,1,1,512,Apt/Condo
+775,"2,000",161 West Georgia Street,Downtown West,Vancouver,Greater Vancouver,1,1,516,Apt/Condo
+776,"2,000",161 West Georgia Street,Downtown West,Vancouver,Greater Vancouver,1,1,516,Apt/Condo
+777,"3,600",1405 Haro Street,West End,Vancouver,Greater Vancouver,3,2,829,Apt/Condo
+778,"2,795",1283 Howe Street,Downtown West,Vancouver,Greater Vancouver,1,1,600,Apt/Condo
+779,"1,500",1230 Nelson Street,West End,Vancouver,Greater Vancouver,0,1,550,Apt/Condo
+780,"4,950",111 East 1st Avenue,Mount Pleasant East,Vancouver,Greater Vancouver,2,2,1100,Apt/Condo
+781,"2,200",1325 Rolston Street,Downtown West,Vancouver,Greater Vancouver,1,1,509,Apt/Condo
+782,"4,200",6301 1151 W Georgia St,Coal Harbour,Vancouver,Greater Vancouver,1,2,847,House
+783,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,460,Apt/Condo
+784,"2,100",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,326,Apt/Condo
+785,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,421,Apt/Condo
+786,"2,600",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+787,"2,600",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+788,"2,100",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+789,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,561,Apt/Condo
+790,"1,950",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,460,Apt/Condo
+791,"3,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,640,Apt/Condo
+792,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,765,Apt/Condo
+793,"8,000",55 East Cordova Street,Downtown East,Vancouver,Greater Vancouver,0,1,1357,Apt/Condo
+794,"2,800",5073 Chambers,Collingwood,Vancouver,Greater Vancouver,2,2,1104,House
+795,"3,300",5079 Chambers,Collingwood,Vancouver,Greater Vancouver,3,2,1054,House
+796,"3,300",5075 Chambers,Collingwood,Vancouver,Greater Vancouver,3,2,1013,House
+797,"3,300",5083 Chambers,Collingwood,Vancouver,Greater Vancouver,3,2,1150,House
+798,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,460,Apt/Condo
+799,"3,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,1,765,Apt/Condo
+800,"2,200",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+801,"1,950",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+802,"2,550",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,616,Apt/Condo
+803,"3,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+804,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+805,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,561,Apt/Condo
+806,"2,200",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,542,Apt/Condo
+807,"1,950",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+808,"2,200",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,421,Apt/Condo
+809,"2,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,616,Apt/Condo
+810,"2,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,616,Apt/Condo
+811,"1,775",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+812,"2,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,640,Apt/Condo
+813,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+814,"2,600",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,690,Apt/Condo
+815,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,407,Apt/Condo
+816,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+817,"1,650",1540 Haro Street,West End,Vancouver,Greater Vancouver,0,1,450,Apt/Condo
+818,"3,200",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,692,Apt/Condo
+819,"3,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,692,Apt/Condo
+820,"2,700",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,690,Apt/Condo
+821,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,407,Apt/Condo
+822,"2,275",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,541,Apt/Condo
+823,"2,275",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,541,Apt/Condo
+824,"1,775",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+825,"2,200",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,542,Apt/Condo
+826,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+827,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+828,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+829,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+830,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+831,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+832,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+833,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+834,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+835,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+836,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+837,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+838,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+839,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+840,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+841,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+842,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+843,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+844,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+845,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+846,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+847,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+848,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+849,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+850,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+851,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+852,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+853,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+854,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+855,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+856,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+857,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+858,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+859,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+860,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+861,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+862,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+863,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+864,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+865,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+866,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+867,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+868,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+869,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+870,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+871,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+872,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+873,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+874,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+875,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+876,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+877,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+878,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+879,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+880,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+881,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+882,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+883,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+884,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+885,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+886,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+887,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+888,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+889,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+890,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+891,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+892,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+893,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+894,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+895,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+896,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+897,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+898,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+899,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+900,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+901,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+902,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+903,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+904,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+905,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+906,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+907,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+908,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+909,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+910,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+911,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+912,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+913,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+914,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+915,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+916,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+917,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+918,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+919,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+920,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+921,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+922,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+923,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+924,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+925,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+926,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+927,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+928,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+929,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+930,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+931,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+932,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+933,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+934,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+935,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+936,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+937,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+938,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+939,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+940,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+941,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+942,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+943,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+944,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+945,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+946,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+947,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+948,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+949,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+950,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+951,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+952,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+953,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+954,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+955,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+956,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+957,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+958,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+959,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+960,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+961,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+962,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+963,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+964,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+965,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+966,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+967,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+968,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+969,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+970,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+971,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+972,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+973,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+974,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+975,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+976,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+977,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+978,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+979,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+980,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+981,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+982,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+983,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+984,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+985,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+986,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+987,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,400,Apt/Condo
+988,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+989,"1,850",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+990,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,565,Apt/Condo
+991,"1,500",1216 Homer Street,Yaletown,Vancouver,Greater Vancouver,0,1,398,Apt/Condo
+992,"2,300",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+993,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,462,Apt/Condo
+994,"2,000",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,406,Apt/Condo
+995,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,2,865,Apt/Condo
+996,"2,650",1170 Barclay Street,West End,Vancouver,Greater Vancouver,1,1,616,Apt/Condo
+997,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+998,"1,900",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,422,Apt/Condo
+999,"2,050",1170 Barclay Street,West End,Vancouver,Greater Vancouver,0,1,415,Apt/Condo
+1000,"3,500",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+1001,"3,400",1170 Barclay Street,West End,Vancouver,Greater Vancouver,2,2,805,Apt/Condo
+1002,"1,350",1517 Comox Street,West End,Vancouver,Greater Vancouver,0,1,187,Apt/Condo
+1003,800,406 Union Street,Strathcona,Vancouver,Greater Vancouver,0,130 sf,130,House
+1004,"2,850","610 Granville St, Vancouver, Bc",Downtown West,Vancouver,Greater Vancouver,1,1,650,Apt/Condo
+1005,"1,850",1146 Harwood Street,West End,Vancouver,Greater Vancouver,1,1,497,Apt/Condo
+1006,"5,000",79 Desswood Place,Glenmore,West Vancouver,Greater Vancouver,4,3,2300,House
+1007,"14,000",4481 Keith Road,Caulfeild,West Vancouver,Greater Vancouver,6,6,7844,House
+1008,"6,895",1327 Bellevue Avenue,Ambleside,West Vancouver,Greater Vancouver,2,3,1386,Apt/Condo
+1009,"1,900",5495 Greenleaf Road,Eagle Harbour,West Vancouver,Greater Vancouver,2,1,933,House
+1010,"50,000",2929 Mathers Avenue,Altamont,West Vancouver,Greater Vancouver,8,1,16245,House
+1011,"2,550",1417 Gordon Avenue,Ambleside,West Vancouver,Greater Vancouver,2,2,1163,House
+1012,"8,000",4882 Vista Place,Caulfeild,West Vancouver,Greater Vancouver,4,5,3826,House
+1013,"8,500",5797 Marine Drive,Eagleridge,West Vancouver,Greater Vancouver,5,5,4043,House
+1014,"14,000",3691 Sunset Lane,West Bay,West Vancouver,Greater Vancouver,4,6,4823,House
+1015,"15,000",2382 Westhill Drive,Westhill,West Vancouver,Greater Vancouver,5,5,6152,House
+1016,"5,450",1470 Nelson Avenue,Ambleside,West Vancouver,Greater Vancouver,3,4,2455,House
+1017,"2,995",2020 Bellevue Avenue,Ambleside,West Vancouver,Greater Vancouver,2,2,1050,Apt/Condo
+1018,"6,000",4**1 Woodburn Road,Cypress Park Estates,West Vancouver,Greater Vancouver,5,4,5530,House
+1019,"2,300",2575 Marine Drive,Dundarave,West Vancouver,Greater Vancouver,2,1,1200,House
+1020,"35,000",Park Lane,Altamont,West Vancouver,Greater Vancouver,4,4,3500,House
+1021,"1,550",866 Craigflower St.,Kinsmen Park,Esquimalt,Greater Victoria,1,1,0,Apt/Condo
+1022,"1,550",866 Craigflower St.,Kinsmen Park,Esquimalt,Greater Victoria,2,1,0,Apt/Condo
+1023,"1,500",625 Fernhill Rd,Rockheights,Esquimalt,Greater Victoria,1,1,0,Apt/Condo
+1024,"1,325",611 Admirals Road,Rockheights,Esquimalt,Greater Victoria,1,1,700,Apt/Condo
+1025,"2,200",924 Esquimalt Road,Old Esquimalt,Esquimalt,Greater Victoria,2,1,754,Apt/Condo
+1026,"1,690",837 Ellery Street,Old Esquimalt,Esquimalt,Greater Victoria,2,1,,Apt/Condo
+1027,"1,995",665 Redington Avenue,Thetis Heights,Langford,Greater Victoria,2,2,982,Apt/Condo
+1028,"1,911",1701 Cedar Hill Cross Road,Mt Tolmie,Saanich,Greater Victoria,1,1,917,Apt/Condo
+1029,"2,259",1701 Cedar Hill Cross Road,Mt Tolmie,Saanich,Greater Victoria,2,1,1042,Apt/Condo
+1030,"1,651",1701 Cedar Hill Cross Road,Mt Tolmie,Saanich,Greater Victoria,1,1,741,Apt/Condo
+1031,"1,375",1631 McKenzie Avenue,Mt Tolmie,Saanich,Greater Victoria,1,1,,Apt/Condo
+1032,"1,395",2925 Qu'Appelle Street,Gorge,Saanich,Greater Victoria,1,1,,Apt/Condo
+1033,"1,350",1530 Church Avenue,Cedar Hill,Saanich,Greater Victoria,1,1,,Apt/Condo
+1034,"1,865",71 Gorge Road West,Gorge,Saanich,Greater Victoria,2,2,1000,Apt/Condo
+1035,"1,200",2215 James White Blvd,Sidney Town,Sidney,Greater Victoria,1,1,0,Apt/Condo
+1036,"1,600",2211 James White Boulevard,Sidney Northeast,Sidney,Greater Victoria,1,1,,Apt/Condo
+1037,"1,225",118 Menzies Street,James Bay,Victoria,Greater Victoria,0,1,400,Apt/Condo
+1038,"1,800",725 Yates Street,Downtown,Victoria,Greater Victoria,2,1,600,Apt/Condo
+1039,"1,350",1300 Yates Street,Downtown,Victoria,Greater Victoria,1,1,0,Apt/Condo
+1040,"1,600",118 Menzies Street,James Bay,Victoria,Greater Victoria,2,1,750,Apt/Condo
+1041,"1,595",1300 Yates Street,Downtown,Victoria,Greater Victoria,1,1,0,Apt/Condo
+1042,"1,295",1345 Pandora Ave.,Downtown,Victoria,Greater Victoria,1,1,685,Apt/Condo
+1043,"1,850",1345 Pandora Ave.,Downtown,Victoria,Greater Victoria,2,1,975,Apt/Condo
+1044,"1,450",950 Rockland Ave.,Downtown,Victoria,Greater Victoria,1,1,550,Apt/Condo
+1045,"1,650",725 Yates Street,Downtown,Victoria,Greater Victoria,1,1,525,Apt/Condo
+1046,"1,295",1300 Yates Street,Downtown,Victoria,Greater Victoria,0,1,0,Apt/Condo
+1047,"1,295",345 Quebec Street,James Bay,Victoria,Greater Victoria,0,1,302,Apt/Condo
+1048,"1,315",1655 Chambers Street,Fernwood,Victoria,Greater Victoria,1,1,0,Apt/Condo
+1049,"1,600",133 Gorge Rd East,Burnside,Victoria,Greater Victoria,1,1,0,Apt/Condo
+1050,"1,700",133 Gorge Rd East,Burnside,Victoria,Greater Victoria,2,1,0,Apt/Condo
+1051,"3,495",345 Quebec Street,James Bay,Victoria,Greater Victoria,2,2,1125,Apt/Condo
+1052,"1,695",345 Quebec Street,James Bay,Victoria,Greater Victoria,0,1,315,Apt/Condo
+1053,"1,525",345 Quebec Street,James Bay,Victoria,Greater Victoria,1,1,471,Apt/Condo
+1054,"1,395",1025 Linden Avenue,Rockland,Victoria,Greater Victoria,1,1,615,Apt/Condo
+1055,"1,350",345 Michigan Street,James Bay,Victoria,Greater Victoria,2,1,700,Apt/Condo
+1056,"1,750",2330 Richmond Road,Jubilee,Victoria,Greater Victoria,1,1,,Apt/Condo
+1057,"1,425",1670 Fort Street,Fernwood,Victoria,Greater Victoria,1,1,,Apt/Condo
+1058,"1,675",566 Simcoe Street,James Bay,Victoria,Greater Victoria,2,1,,Apt/Condo
+1059,"1,350",566 Simcoe Street,James Bay,Victoria,Greater Victoria,1,1,,Apt/Condo
+1060,"1,495",2797 Cedar Hill Road,Oaklands,Victoria,Greater Victoria,1,1,,Apt/Condo
+1061,"1,375",1537 Belcher Avenue,Downtown,Victoria,Greater Victoria,1,1,,Apt/Condo
+1062,"1,425",1537 Belcher Avenue,Downtown,Victoria,Greater Victoria,1,1,,Apt/Condo
+1063,"1,350",566 Simcoe Street,James Bay,Victoria,Greater Victoria,1,1,,Apt/Condo
+1064,"1,695",1670 Fort Street,Fernwood,Victoria,Greater Victoria,2,1,,Apt/Condo
+1065,"1,450",1670 Fort Street,Fernwood,Victoria,Greater Victoria,1,1,,Apt/Condo
+1066,"1,395",1670 Fort Street,Fernwood,Victoria,Greater Victoria,1,1,,Apt/Condo
+1067,"1,395",1050 Richardson Street,Downtown,Victoria,Greater Victoria,1,1,650,Apt/Condo
+1068,"1,485",2 Watkiss Way,Hospital,View Royal,Greater Victoria,0,1,645,Apt/Condo
+1069,"1,825",4 Watkiss Way,Hospital,View Royal,Greater Victoria,2,1,1046,Apt/Condo
+1070,"2,450",4 Watkiss Way,Hospital,View Royal,Greater Victoria,2,2,1046,Apt/Condo
+1071,"1,750",3037 Craigowan Road,Glentana,View Royal,Greater Victoria,2,1,,Apt/Condo
+1072,500,1160/1580 Shuswap Avenue,"1160/1580 Shuswap Avenue
+",Lumby,North Okanagan,0,,,Land/Lot
+1073,"1,250,000",47-2 Head Of The Lake Road,"47-2 Head Of The Lake Road
+",Vernon,North Okanagan,0,,,Land/Lot
+1074,"1,000,000",17 Head Of The Lake Road,"17 Head Of The Lake Road
+",Vernon,North Okanagan,0,,,Land/Lot
+1075,"1,100",550 South Island Highway,Campbell River Central,Campbell River,Northern Vancouver Island,1,1,0,Apt/Condo
+1076,"1,750",280 Cypress St,Brechin Hill,Nanaimo,Northern Vancouver Island,3,2,950,Apt/Condo
+1077,"1,350",2550 Departure Bay Road,Departure Bay,Nanaimo,Northern Vancouver Island,1,1,0,Apt/Condo
+1078,"1,250",312 Mount Benson,Central Nanaimo,Nanaimo,Northern Vancouver Island,1,1,,Apt/Condo
+1079,"1,450",312 Mount Benson,Central Nanaimo,Nanaimo,Northern Vancouver Island,2,1,,Apt/Condo
+1080,"1,450",2550 Departure Bay Road,Departure Bay,Nanaimo,Northern Vancouver Island,2,1,0,Apt/Condo
+1081,"1,550",2550 Departure Bay Road,Departure Bay,Nanaimo,Northern Vancouver Island,2,1,0,Apt/Condo
+1082,"1,698",270 Dunbar Way,"270 Dunbar Way
+",Parksville,Northern Vancouver Island,2,2,927,Apt/Condo
+1083,"1,828",185 Kinney Avenue,"185 Kinney Avenue
+",Penticton,Okanagan Similkameen,3,2,1031,Apt/Condo
+1084,"1,568",151 Duncan Ave West,"151 Duncan Ave West
+",Penticton,Okanagan Similkameen,2,1,821,Apt/Condo
+1085,"1,688",185 Kinney Avenue,"185 Kinney Avenue
+",Penticton,Okanagan Similkameen,2,2,932,Apt/Condo
+1086,"1,428",185 Kinney Avenue,"185 Kinney Avenue
+",Penticton,Okanagan Similkameen,1,1,634,Apt/Condo
+1087,"1,658",151 Duncan Ave West,"151 Duncan Ave West
+",Penticton,Okanagan Similkameen,2,2,932,Apt/Condo
+1088,"1,728",12809 Kelly Ave,"12809 Kelly Ave
+",Summerland,Okanagan Similkameen,2,2,908,Apt/Condo
+1089,"1,190",945 Victoria Street West,West End,Kamloops,Thompson Nicola,0,1,468,Apt/Condo
+1090,"2,020",945 Victoria Street West,West End,Kamloops,Thompson Nicola,2,2,1095,Apt/Condo
+1091,950,559 Nicola Street,Downtown,Kamloops,Thompson Nicola,0,1,424,Apt/Condo
+1092,"1,450",559 Nicola Street,Downtown,Kamloops,Thompson Nicola,2,1,0,Apt/Condo
+1093,"1,150",559 Nicola Street,Downtown,Kamloops,Thompson Nicola,1,1,620,Apt/Condo
+1094,"1,768",3201 Valleyview Drive,Valleyview,Kamloops,Thompson Nicola,3,2,1031,Apt/Condo
+1095,"1,700",196 Yew St,North Kamloops,Kamloops,Thompson Nicola,2,1,0,Apt/Condo
+1096,"1,550",196 Yew St,North Kamloops,Kamloops,Thompson Nicola,1,1,0,Apt/Condo
+1097,"1,428",3201 Valleyview Drive,Valleyview,Kamloops,Thompson Nicola,1,1,624,Apt/Condo
+1098,"1,700",627 Lilac Ave,North Kamloops,Kamloops,Thompson Nicola,3,2,0,Townhouse
+1099,"1,450",627 Lilac Ave,North Kamloops,Kamloops,Thompson Nicola,2,1,0,Townhouse
+1100,"1,800",766 Tranquille Road,North Kamloops,Kamloops,Thompson Nicola,2,2,850,Apt/Condo
+1101,"3,800",1 2243 Sapporo Drive,Whistler Creek,Whistler,"Whistler, Pemberton and Squamish",1,1,415,House
