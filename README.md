@@ -1,4 +1,4 @@
-This Python application scrapes property data from www.rew.ca and it's part of a project where I analyzed the trade off between buying versus renting a property in greater vancouver. You can find the presentation, report and link to the Tableau visualization of this project under the projects section of my portfolio website at:
+This Python application scrapes property data from www.rew.ca and it's part of a project where I analyzed the trade off between buying versus renting a property in greater Vancouver. You can find the presentation, report and link to the Tableau visualization of this project under the projects section of my portfolio website at:
 www.filipeanalytics.com
 
 This script can be used to extract both rental and sales data. By default, it's scraping sales data, but if you want to scrape rental data, you need to do the following:
