@@ -112,3 +112,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\filip\Google Drive\0 - Filipe Vania PC\1 - Analytics PROJECTS\10 - HousingMktWebscraping\Github\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignore .idea
+.idea/
+
